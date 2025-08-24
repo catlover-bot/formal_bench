@@ -1,0 +1,11 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "grade test",
+      "type": "shell",
+      "command": "python tools/grade.py --input data/test.jsonl --preds preds/sample_preds.json --out out/report.json --k 32",
+      "problemMatcher": []
+    }
+  ]
+}

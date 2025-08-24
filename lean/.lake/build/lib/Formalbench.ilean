@@ -1,0 +1,1 @@
+{"version":3,"references":{"{\"c\":{\"n\":\"True\",\"m\":\"Init.Prelude\"}}":{"usages":[[5,16,5,20,"Formalbench.hello",5,0,6,9,5,8,5,13]],"definition":null},"{\"c\":{\"n\":\"Formalbench.hello\",\"m\":\"Formalbench\"}}":{"usages":[],"definition":[5,8,5,13]}},"module":"Formalbench"}

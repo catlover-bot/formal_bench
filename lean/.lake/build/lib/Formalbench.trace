@@ -1,0 +1,5 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=././.lake/packages/batteries/.lake/build/lib:././.lake/packages/Qq/.lake/build/lib:././.lake/packages/aesop/.lake/build/lib:././.lake/packages/proofwidgets/.lake/build/lib:././.lake/packages/Cli/.lake/build/lib:././.lake/packages/importGraph/.lake/build/lib:././.lake/packages/LeanSearchClient/.lake/build/lib:././.lake/packages/mathlib/.lake/build/lib:././.lake/build/lib DYLD_LIBRARY_PATH=/Users/hirotaka-m/MalmoPlatform/Platform/lib: /Users/hirotaka-m/.elan/toolchains/leanprover--lean4---v4.12.0/bin/lean ././././Formalbench.lean -R ./././. -o ././.lake/build/lib/Formalbench.olean -i ././.lake/build/lib/Formalbench.ilean -c ././.lake/build/ir/Formalbench.c --json",
+   "level": "trace"}],
+ "depHash": "10323450217507701312"}

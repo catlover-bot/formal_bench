@@ -1,0 +1,4 @@
+{
+  "Q1": ["exact True.intro", "trivial"],
+  "Q2": ["trivial", "exact True.intro"]
+}

@@ -1,0 +1,17 @@
+import Mathlib
+set_option linter.docPrime false
+set_option maxHeartbeats 2000000
+
+namespace Bench
+
+/-- 命題（データから差し込む） -/
+def goalProp : Prop := {{ proposition }}
+
+/-- 参加モデルの証明（ここに候補を流し込む） -/
+theorem CandidateProof : goalProp := by
+{{ proof }}
+
+#check CandidateProof
+#print axioms CandidateProof
+
+end Bench
