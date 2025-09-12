@@ -1,0 +1,1634 @@
+{
+  "Pass@k": 0.0,
+  "QES": -0.11594854561971078,
+  "AUC@Time": 0.0,
+  "KernelTime_norm": 0.5797427280985539,
+  "ProofLen_norm": 0.0,
+  "AxiomPenalty_avg": 0.0,
+  "by_split_or_domain_style": {
+    "split::id": {
+      "N": 200,
+      "Pass@k": 0.0,
+      "AUC@Time": 0.0
+    },
+    "ds::algebra/textbook": {
+      "N": 200,
+      "Pass@k": 0.0,
+      "AUC@Time": 0.0
+    }
+  },
+  "items": {
+    "ALG-TB-002780": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.686864834045991,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00150": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 6.00816629093606,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02451": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.040091832983308,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01829": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.752640875056386,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01404": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.58051829203032,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-000414": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.609903916949406,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02464": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.658618708024733,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01318": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.684495042078197,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00548": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.025617334060371,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00693": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.869224959053099,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02357": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.758800707990304,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01858": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.312056666007265,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01421": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.8280591670190915,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02438": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.849034999962896,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01141": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.012102250009775,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01039": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 6.549070915905759,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-001168": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.517721625044942,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01412": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.861364625045098,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02060": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.969919165945612,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002336": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.540571707999334,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002789": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.286551958066411,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00719": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.072113125002943,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01321": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.089556833961979,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00182": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.27621787507087,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02523": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.981660792022012,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002934": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.804895875044167,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01456": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.952719499939121,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01475": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.510193458991125,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01758": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.777756832889281,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-001866": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.11768262507394,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-001713": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.0051712080603465,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03886": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.565166290965863,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02375": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.680228500044905,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03818": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.956250000046566,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01572": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.197102917009033,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01980": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.851884332951158,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00789": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.732465957989916,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02948": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.9354474160354584,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00763": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.4686583750881255,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01810": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.710892417002469,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03114": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.968467833008617,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00973": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.5140556250698864,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03233": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.602129083010368,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00448": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.786082166014239,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01091": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.726291333907284,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02474": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.782848207978532,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02806": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.576603124965914,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03147": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.534958458971232,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01845": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.930682167061605,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02061": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.581872791051865,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00417": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.649670709040947,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02933": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.8042954170377925,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00621": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.588941999943927,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03333": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.638896291027777,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01088": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.559714917093515,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01159": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.667530999984592,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02981": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.346907417057082,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03943": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.802309583057649,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02004": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.520267541985959,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01777": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.464055333985016,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01856": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.265156292007305,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01736": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.388984833960421,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01643": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.8150468750391155,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00574": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.166314166039228,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03873": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.570792583981529,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03700": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.660582707962021,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-000435": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.649581416975707,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00842": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.610494999913499,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01998": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.519351583090611,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00257": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.682012957986444,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-001447": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.672876625088975,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03553": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.81871141702868,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01120": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.750767207937315,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00132": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.12503687501885,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01234": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.397003458929248,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01016": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.494711082894355,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002332": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.735440541990101,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02377": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.777012625010684,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01060": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.383422791026533,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00130": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.976401749998331,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03671": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.79574983404018,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00209": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.54053508292418,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-001546": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.351582332979888,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01077": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.635238666087389,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03866": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.60226574994158,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02318": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.753491917042993,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03925": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.582337665953673,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002261": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.65840425004717,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03506": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.809457749943249,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03911": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.069671000004746,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02304": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.597073082928546,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01191": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 6.809682165971026,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00852": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.994609875022434,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03316": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.083935291972011,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00601": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.703568208031356,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00559": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.414575375034474,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03704": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.34096983296331,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01767": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.167756584007293,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02835": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.870647290954366,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02171": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.398151249974035,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01746": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.630826334003359,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00025": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.977006000000983,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00494": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.739523292053491,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002269": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.635380667052232,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00268": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.726327457930893,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01617": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.29307591705583,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01227": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.40770183398854,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02560": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.13458920805715,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03751": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.132651666994207,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03887": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.007692041923292,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002135": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.328234167071059,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02792": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.760294874897227,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01268": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 6.352835083031096,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02636": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.706426040967926,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-001658": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.418680583010428,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03836": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.002496834029444,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02634": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.053358708042651,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02606": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.954792125034146,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02768": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.357020625029691,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01175": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.681163500063121,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01682": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.356344332918525,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-000007": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.694248041021638,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002309": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.802175541990437,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-001150": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.734849333995953,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02387": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.342644084012136,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03545": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.818559749983251,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03073": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.38916804199107,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-001098": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.691656332928687,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02880": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.475324708968401,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03267": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.6311913329409435,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03826": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.223862707964145,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02488": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.750386375002563,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03447": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.35810083290562,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-000398": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.750119958072901,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02953": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.679956666077487,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01209": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.357158916071057,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-001976": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.898766375030391,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002256": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.947266915929504,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-000249": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.618690542061813,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00705": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.32986250007525,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02435": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.917224416974932,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-000829": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.365270999958739,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002987": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.725305916042998,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02202": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.823803749983199,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02360": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.39628233294934,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01790": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.792891917051747,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00455": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.847334207966924,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01913": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.378238416975364,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03475": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.793923417106271,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-001356": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 6.125790958991274,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002806": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.542219500057399,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01207": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.6621493339771405,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01783": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.290668083005585,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-000871": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.480229959008284,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02932": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.534114875015803,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02585": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.925099125015549,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002092": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.5243538750801235,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02834": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.683587624924257,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03546": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.16356849996373,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01037": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.339616791927256,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002068": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.422662166063674,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00129": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.6176233750302345,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002182": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 6.145614792010747,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-001070": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.614667540998198,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-001085": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.2344359590206295,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02103": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.682069542002864,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-000596": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.049605790991336,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01747": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.858857791987248,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03270": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.3733575829537585,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-001159": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.801221917034127,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-000838": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.246762667084113,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-000213": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.653651083004661,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002561": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.865215708967298,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03445": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.133067124988884,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-001892": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.348886166932061,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02228": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.017387291998602,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002315": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.426931416033767,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03048": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.443471042090096,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002391": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.464438583003357,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00783": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.005230582901277,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03646": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.128770375042222,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00723": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.943855292047374,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02138": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.70906191598624,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002906": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.504872917081229,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-03132": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.677263666060753,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-001437": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.236330208950676,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02801": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.348500500083901,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-000664": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.228809540974908,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-002499": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.597046709037386,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01229": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.461945416987874,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02671": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.500160166993737,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-001357": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.5961426249705255,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01489": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.829863250022754,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02588": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.568834249977954,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02286": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.009491415927187,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02824": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.377762334072031,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-02592": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 4.60322150005959,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-00945": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.231030041933991,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-000352": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.123077166965231,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "ALG-TB-01512": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 7.6114662499167025,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    }
+  },
+  "meta": {
+    "k": 1,
+    "aucT": 90.0,
+    "lambda": {
+      "t": 0.2,
+      "len": 0.1,
+      "ax": 0.15
+    },
+    "constructive": true,
+    "lean_dir": "/Users/hirotaka-m/formal_bench/lean",
+    "tpl": "tools/wrap_strict.lean.j2"
+  }
+}

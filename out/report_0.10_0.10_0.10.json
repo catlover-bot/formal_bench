@@ -1,0 +1,50 @@
+{
+  "Pass@k": 0.5,
+  "QES": 0.45,
+  "AUC@Time": 0.47124615995554553,
+  "KernelTime_norm": 0.5,
+  "ProofLen_norm": 0.0,
+  "AxiomPenalty_avg": 0.0,
+  "by_split_or_domain_style": {
+    "split::id": {
+      "N": 2,
+      "Pass@k": 0.5,
+      "AUC@Time": 0.47124615995554553
+    },
+    "ds::algebra/textbook": {
+      "N": 2,
+      "Pass@k": 0.5,
+      "AUC@Time": 0.47124615995554553
+    }
+  },
+  "items": {
+    "Q1": {
+      "pass": true,
+      "t_success": 5.175691208001808,
+      "kernel_time_med": 5.07715147899944,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "Q2": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 5.024503041997377,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    }
+  },
+  "meta": {
+    "k": 32,
+    "aucT": 90.0,
+    "lambda": {
+      "t": 0.1,
+      "len": 0.1,
+      "ax": 0.1
+    },
+    "constructive": false,
+    "lean_dir": "/Users/hirotaka-m/formal_bench/lean",
+    "tpl": "/Users/hirotaka-m/formal_bench/tools/wrapper_template.lean.j2"
+  }
+}

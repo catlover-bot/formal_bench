@@ -1,0 +1,1002 @@
+{
+  "ALG-TB-002780": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00150": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02451": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01829": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01404": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-000414": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02464": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01318": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00548": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00693": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02357": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01858": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01421": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02438": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01141": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01039": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-001168": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01412": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02060": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002336": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002789": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00719": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01321": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00182": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02523": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002934": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01456": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01475": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01758": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-001866": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-001713": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03886": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02375": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03818": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01572": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01980": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00789": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02948": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00763": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01810": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03114": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00973": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03233": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00448": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01091": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02474": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02806": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03147": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01845": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02061": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00417": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02933": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00621": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03333": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01088": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01159": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02981": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03943": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02004": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01777": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01856": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01736": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01643": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00574": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03873": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03700": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-000435": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00842": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01998": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00257": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-001447": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03553": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01120": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00132": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01234": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01016": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002332": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02377": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01060": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00130": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03671": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00209": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-001546": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01077": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03866": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02318": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03925": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002261": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03506": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03911": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02304": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01191": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00852": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03316": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00601": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00559": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03704": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01767": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02835": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02171": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01746": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00025": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00494": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002269": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00268": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01617": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01227": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02560": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03751": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03887": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002135": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02792": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01268": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02636": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-001658": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03836": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02634": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02606": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02768": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01175": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01682": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-000007": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002309": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-001150": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02387": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03545": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03073": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-001098": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02880": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03267": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03826": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02488": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03447": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-000398": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02953": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01209": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-001976": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002256": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-000249": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00705": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02435": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-000829": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002987": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02202": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02360": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01790": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00455": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01913": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03475": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-001356": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002806": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01207": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01783": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-000871": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02932": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02585": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002092": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02834": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03546": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01037": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002068": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00129": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002182": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-001070": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-001085": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02103": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-000596": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01747": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03270": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-001159": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-000838": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-000213": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002561": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03445": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-001892": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02228": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002315": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03048": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002391": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00783": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03646": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00723": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02138": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002906": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-03132": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-001437": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02801": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-000664": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-002499": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01229": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02671": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-001357": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01489": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02588": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02286": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02824": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-02592": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-00945": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-000352": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ],
+  "ALG-TB-01512": [
+    "norm_num",
+    "aesop",
+    "decide"
+  ]
+}

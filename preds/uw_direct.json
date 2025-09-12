@@ -1,0 +1,802 @@
+{
+  "ALG-TB-002780": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00150": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02451": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01829": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01404": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-000414": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02464": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01318": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00548": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00693": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02357": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01858": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01421": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02438": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01141": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01039": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-001168": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01412": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02060": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002336": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002789": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00719": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01321": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00182": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02523": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002934": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01456": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01475": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01758": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-001866": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-001713": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03886": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02375": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03818": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01572": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01980": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00789": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02948": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00763": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01810": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03114": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00973": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03233": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00448": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01091": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02474": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02806": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03147": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01845": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02061": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00417": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02933": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00621": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03333": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01088": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01159": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02981": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03943": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02004": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01777": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01856": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01736": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01643": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00574": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03873": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03700": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-000435": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00842": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01998": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00257": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-001447": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03553": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01120": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00132": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01234": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01016": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002332": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02377": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01060": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00130": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03671": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00209": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-001546": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01077": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03866": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02318": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03925": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002261": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03506": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03911": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02304": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01191": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00852": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03316": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00601": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00559": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03704": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01767": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02835": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02171": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01746": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00025": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00494": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002269": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00268": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01617": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01227": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02560": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03751": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03887": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002135": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02792": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01268": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02636": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-001658": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03836": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02634": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02606": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02768": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01175": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01682": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-000007": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002309": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-001150": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02387": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03545": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03073": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-001098": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02880": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03267": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03826": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02488": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03447": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-000398": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02953": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01209": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-001976": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002256": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-000249": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00705": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02435": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-000829": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002987": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02202": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02360": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01790": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00455": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01913": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03475": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-001356": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002806": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01207": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01783": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-000871": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02932": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02585": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002092": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02834": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03546": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01037": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002068": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00129": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002182": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-001070": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-001085": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02103": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-000596": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01747": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03270": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-001159": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-000838": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-000213": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002561": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03445": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-001892": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02228": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002315": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03048": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002391": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00783": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03646": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00723": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02138": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002906": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-03132": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-001437": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02801": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-000664": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-002499": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01229": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02671": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-001357": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01489": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02588": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02286": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02824": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-02592": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-00945": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-000352": [
+    "trivial",
+    "exact True.intro"
+  ],
+  "ALG-TB-01512": [
+    "trivial",
+    "exact True.intro"
+  ]
+}

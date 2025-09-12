@@ -1,0 +1,42 @@
+{
+  "Pass@k": 0.0,
+  "QES": 0.0,
+  "AUC@Time": 0.0,
+  "KernelTime_norm": 0.0,
+  "ProofLen_norm": 0.0,
+  "AxiomPenalty_avg": 0.0,
+  "by_split_or_domain_style": {
+    "split::id": {
+      "N": 1,
+      "Pass@k": 0.0,
+      "AUC@Time": 0.0
+    },
+    "ds::algebra/textbook": {
+      "N": 1,
+      "Pass@k": 0.0,
+      "AUC@Time": 0.0
+    }
+  },
+  "items": {
+    "ALG-TB-002780": {
+      "pass": false,
+      "t_success": null,
+      "kernel_time_med": 8.142118291929364,
+      "proof_len_med_tok": 1,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    }
+  },
+  "meta": {
+    "k": 3,
+    "aucT": 90.0,
+    "lambda": {
+      "t": 0.2,
+      "len": 0.1,
+      "ax": 0.15
+    },
+    "constructive": true,
+    "lean_dir": "/Users/hirotaka-m/formal_bench/lean",
+    "tpl": "tools/wrap_direct.lean.j2"
+  }
+}

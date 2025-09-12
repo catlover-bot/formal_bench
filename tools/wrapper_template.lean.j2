@@ -4,12 +4,12 @@ set_option maxHeartbeats 2000000
 
 namespace Bench
 
-/-- 命題（データから差し込む） -/
+/-- 評価対象の命題（JSONL から差し込み） -/
 def goalProp : Prop := {{ proposition }}
 
-/-- 参加モデルの証明（ここに候補を流し込む） -/
+/-- 参加モデルの候補証明（ここに `by` の本文を差し込む） -/
 theorem CandidateProof : goalProp := by
-{{ proof }}
+{{ proof | indent(2, true) }}
 
 #check CandidateProof
 #print axioms CandidateProof

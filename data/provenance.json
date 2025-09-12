@@ -1,0 +1,12 @@
+{
+  "license": "CC0-1.0",
+  "seed": 0,
+  "counts": {
+    "('id', 'algebra', 'textbook')": 400,
+    "('id', 'number_theory', 'textbook')": 400,
+    "('ood_style', 'algebra', 'contest')": 100,
+    "('ood_style', 'number_theory', 'contest')": 100,
+    "('ood_topic', 'combinatorics', 'textbook')": 100
+  },
+  "generated_by": "tools/make_synthetic_v2.py + tools/cc_validate.py + tools/pack_benchmark.py"
+}

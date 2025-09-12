@@ -1,0 +1,3 @@
+{"id": "NT-TB-00002", "split": "id", "domain": "number_theory", "style": "textbook", "difficulty": 2, "lean_prop": "59 ∣ 1534", "license": "CC0", "source": {"kind": "synthetic", "seed": 0}, "cc_ok": false, "cc_tactic": null, "cc_time": null}
+{"id": "NT-TB-00004", "split": "id", "domain": "number_theory", "style": "textbook", "difficulty": 1, "lean_prop": "59 ∣ 2065", "license": "CC0", "source": {"kind": "synthetic", "seed": 0}, "cc_ok": false, "cc_tactic": null, "cc_time": null}
+{"id": "NT-TB-00006", "split": "id", "domain": "number_theory", "style": "textbook", "difficulty": 2, "lean_prop": "¬ (21 ∣ 40)", "license": "CC0", "source": {"kind": "synthetic", "seed": 0}, "cc_ok": false, "cc_tactic": null, "cc_time": null}

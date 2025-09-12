@@ -1,0 +1,100 @@
+{"id": "hard_ring_0", "lean_prop": "∀ x y z : ℤ, ((x + 1)*(y + 1) + z*-5)^2 = ((x + 1)*(y + 1) + z*-5)*((x + 1)*(y + 1) + z*-5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_1", "lean_prop": "∀ x y z : ℤ, ((x + -1)*(y + 3) + z*2)^2 = ((x + -1)*(y + 3) + z*2)*((x + -1)*(y + 3) + z*2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_2", "lean_prop": "∀ x y z : ℤ, ((x + 1)*(y + -1) + z*2)^2 = ((x + 1)*(y + -1) + z*2)*((x + 1)*(y + -1) + z*2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_3", "lean_prop": "∀ x y z : ℤ, ((x + 0)*(y + 4) + z*-2)^2 = ((x + 0)*(y + 4) + z*-2)*((x + 0)*(y + 4) + z*-2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_4", "lean_prop": "∀ x y z : ℤ, ((x + 3)*(y + -3) + z*-1)^2 = ((x + 3)*(y + -3) + z*-1)*((x + 3)*(y + -3) + z*-1)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_5", "lean_prop": "∀ x y z : ℤ, ((x + -3)*(y + -4) + z*4)^2 = ((x + -3)*(y + -4) + z*4)*((x + -3)*(y + -4) + z*4)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_6", "lean_prop": "∀ x y z : ℤ, ((x + -1)*(y + 3) + z*4)^2 = ((x + -1)*(y + 3) + z*4)*((x + -1)*(y + 3) + z*4)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_7", "lean_prop": "∀ x y z : ℤ, ((x + -3)*(y + -1) + z*-4)^2 = ((x + -3)*(y + -1) + z*-4)*((x + -3)*(y + -1) + z*-4)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_8", "lean_prop": "∀ x y z : ℤ, ((x + -4)*(y + 5) + z*0)^2 = ((x + -4)*(y + 5) + z*0)*((x + -4)*(y + 5) + z*0)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_9", "lean_prop": "∀ x y z : ℤ, ((x + 2)*(y + 3) + z*-4)^2 = ((x + 2)*(y + 3) + z*-4)*((x + 2)*(y + 3) + z*-4)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_10", "lean_prop": "∀ x y z : ℤ, ((x + 0)*(y + 1) + z*0)^2 = ((x + 0)*(y + 1) + z*0)*((x + 0)*(y + 1) + z*0)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_11", "lean_prop": "∀ x y z : ℤ, ((x + 4)*(y + 5) + z*-2)^2 = ((x + 4)*(y + 5) + z*-2)*((x + 4)*(y + 5) + z*-2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_12", "lean_prop": "∀ x y z : ℤ, ((x + 3)*(y + 2) + z*2)^2 = ((x + 3)*(y + 2) + z*2)*((x + 3)*(y + 2) + z*2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_13", "lean_prop": "∀ x y z : ℤ, ((x + 3)*(y + -1) + z*-5)^2 = ((x + 3)*(y + -1) + z*-5)*((x + 3)*(y + -1) + z*-5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_14", "lean_prop": "∀ x y z : ℤ, ((x + 3)*(y + -5) + z*-4)^2 = ((x + 3)*(y + -5) + z*-4)*((x + 3)*(y + -5) + z*-4)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_15", "lean_prop": "∀ x y z : ℤ, ((x + 1)*(y + 5) + z*5)^2 = ((x + 1)*(y + 5) + z*5)*((x + 1)*(y + 5) + z*5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_16", "lean_prop": "∀ x y z : ℤ, ((x + -5)*(y + 4) + z*2)^2 = ((x + -5)*(y + 4) + z*2)*((x + -5)*(y + 4) + z*2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_17", "lean_prop": "∀ x y z : ℤ, ((x + 0)*(y + -2) + z*0)^2 = ((x + 0)*(y + -2) + z*0)*((x + 0)*(y + -2) + z*0)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_18", "lean_prop": "∀ x y z : ℤ, ((x + -4)*(y + -2) + z*4)^2 = ((x + -4)*(y + -2) + z*4)*((x + -4)*(y + -2) + z*4)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_19", "lean_prop": "∀ x y z : ℤ, ((x + -2)*(y + -2) + z*-3)^2 = ((x + -2)*(y + -2) + z*-3)*((x + -2)*(y + -2) + z*-3)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_20", "lean_prop": "∀ x y z : ℤ, ((x + 3)*(y + 2) + z*-4)^2 = ((x + 3)*(y + 2) + z*-4)*((x + 3)*(y + 2) + z*-4)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_21", "lean_prop": "∀ x y z : ℤ, ((x + -4)*(y + 0) + z*3)^2 = ((x + -4)*(y + 0) + z*3)*((x + -4)*(y + 0) + z*3)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_22", "lean_prop": "∀ x y z : ℤ, ((x + 2)*(y + -4) + z*-1)^2 = ((x + 2)*(y + -4) + z*-1)*((x + 2)*(y + -4) + z*-1)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_23", "lean_prop": "∀ x y z : ℤ, ((x + 3)*(y + -1) + z*-4)^2 = ((x + 3)*(y + -1) + z*-4)*((x + 3)*(y + -1) + z*-4)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_24", "lean_prop": "∀ x y z : ℤ, ((x + 3)*(y + 0) + z*3)^2 = ((x + 3)*(y + 0) + z*3)*((x + 3)*(y + 0) + z*3)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_25", "lean_prop": "∀ x y z : ℤ, ((x + -2)*(y + 4) + z*3)^2 = ((x + -2)*(y + 4) + z*3)*((x + -2)*(y + 4) + z*3)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_26", "lean_prop": "∀ x y z : ℤ, ((x + 4)*(y + -1) + z*2)^2 = ((x + 4)*(y + -1) + z*2)*((x + 4)*(y + -1) + z*2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_27", "lean_prop": "∀ x y z : ℤ, ((x + -4)*(y + 4) + z*1)^2 = ((x + -4)*(y + 4) + z*1)*((x + -4)*(y + 4) + z*1)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_28", "lean_prop": "∀ x y z : ℤ, ((x + 0)*(y + 4) + z*-2)^2 = ((x + 0)*(y + 4) + z*-2)*((x + 0)*(y + 4) + z*-2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_29", "lean_prop": "∀ x y z : ℤ, ((x + -1)*(y + -3) + z*-2)^2 = ((x + -1)*(y + -3) + z*-2)*((x + -1)*(y + -3) + z*-2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_30", "lean_prop": "∀ x y z : ℤ, ((x + -3)*(y + -5) + z*4)^2 = ((x + -3)*(y + -5) + z*4)*((x + -3)*(y + -5) + z*4)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_31", "lean_prop": "∀ x y z : ℤ, ((x + 5)*(y + -1) + z*2)^2 = ((x + 5)*(y + -1) + z*2)*((x + 5)*(y + -1) + z*2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_32", "lean_prop": "∀ x y z : ℤ, ((x + -4)*(y + -4) + z*5)^2 = ((x + -4)*(y + -4) + z*5)*((x + -4)*(y + -4) + z*5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_33", "lean_prop": "∀ x y z : ℤ, ((x + -3)*(y + -3) + z*-5)^2 = ((x + -3)*(y + -3) + z*-5)*((x + -3)*(y + -3) + z*-5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_34", "lean_prop": "∀ x y z : ℤ, ((x + -4)*(y + 3) + z*5)^2 = ((x + -4)*(y + 3) + z*5)*((x + -4)*(y + 3) + z*5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_35", "lean_prop": "∀ x y z : ℤ, ((x + 1)*(y + 3) + z*-1)^2 = ((x + 1)*(y + 3) + z*-1)*((x + 1)*(y + 3) + z*-1)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_36", "lean_prop": "∀ x y z : ℤ, ((x + 3)*(y + -2) + z*-2)^2 = ((x + 3)*(y + -2) + z*-2)*((x + 3)*(y + -2) + z*-2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_37", "lean_prop": "∀ x y z : ℤ, ((x + 5)*(y + 4) + z*1)^2 = ((x + 5)*(y + 4) + z*1)*((x + 5)*(y + 4) + z*1)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_38", "lean_prop": "∀ x y z : ℤ, ((x + 4)*(y + -1) + z*2)^2 = ((x + 4)*(y + -1) + z*2)*((x + 4)*(y + -1) + z*2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_39", "lean_prop": "∀ x y z : ℤ, ((x + 2)*(y + 5) + z*5)^2 = ((x + 2)*(y + 5) + z*5)*((x + 2)*(y + 5) + z*5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_40", "lean_prop": "∀ x y z : ℤ, ((x + 0)*(y + -4) + z*0)^2 = ((x + 0)*(y + -4) + z*0)*((x + 0)*(y + -4) + z*0)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_41", "lean_prop": "∀ x y z : ℤ, ((x + 4)*(y + -4) + z*2)^2 = ((x + 4)*(y + -4) + z*2)*((x + 4)*(y + -4) + z*2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_42", "lean_prop": "∀ x y z : ℤ, ((x + 4)*(y + 5) + z*0)^2 = ((x + 4)*(y + 5) + z*0)*((x + 4)*(y + 5) + z*0)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_43", "lean_prop": "∀ x y z : ℤ, ((x + -2)*(y + -2) + z*-5)^2 = ((x + -2)*(y + -2) + z*-5)*((x + -2)*(y + -2) + z*-5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_44", "lean_prop": "∀ x y z : ℤ, ((x + -1)*(y + -4) + z*-2)^2 = ((x + -1)*(y + -4) + z*-2)*((x + -1)*(y + -4) + z*-2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_45", "lean_prop": "∀ x y z : ℤ, ((x + 0)*(y + -3) + z*0)^2 = ((x + 0)*(y + -3) + z*0)*((x + 0)*(y + -3) + z*0)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_46", "lean_prop": "∀ x y z : ℤ, ((x + 1)*(y + -5) + z*-4)^2 = ((x + 1)*(y + -5) + z*-4)*((x + 1)*(y + -5) + z*-4)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_47", "lean_prop": "∀ x y z : ℤ, ((x + -3)*(y + -2) + z*-5)^2 = ((x + -3)*(y + -2) + z*-5)*((x + -3)*(y + -2) + z*-5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_48", "lean_prop": "∀ x y z : ℤ, ((x + 4)*(y + 5) + z*3)^2 = ((x + 4)*(y + 5) + z*3)*((x + 4)*(y + 5) + z*3)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_49", "lean_prop": "∀ x y z : ℤ, ((x + 4)*(y + 5) + z*-4)^2 = ((x + 4)*(y + 5) + z*-4)*((x + 4)*(y + 5) + z*-4)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_50", "lean_prop": "∀ x y z : ℤ, ((x + -5)*(y + -4) + z*5)^2 = ((x + -5)*(y + -4) + z*5)*((x + -5)*(y + -4) + z*5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_51", "lean_prop": "∀ x y z : ℤ, ((x + -2)*(y + 4) + z*4)^2 = ((x + -2)*(y + 4) + z*4)*((x + -2)*(y + 4) + z*4)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_52", "lean_prop": "∀ x y z : ℤ, ((x + -4)*(y + 1) + z*-4)^2 = ((x + -4)*(y + 1) + z*-4)*((x + -4)*(y + 1) + z*-4)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_53", "lean_prop": "∀ x y z : ℤ, ((x + 0)*(y + -4) + z*-5)^2 = ((x + 0)*(y + -4) + z*-5)*((x + 0)*(y + -4) + z*-5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_54", "lean_prop": "∀ x y z : ℤ, ((x + 4)*(y + -5) + z*-2)^2 = ((x + 4)*(y + -5) + z*-2)*((x + 4)*(y + -5) + z*-2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_55", "lean_prop": "∀ x y z : ℤ, ((x + -3)*(y + -4) + z*2)^2 = ((x + -3)*(y + -4) + z*2)*((x + -3)*(y + -4) + z*2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_56", "lean_prop": "∀ x y z : ℤ, ((x + -2)*(y + -5) + z*5)^2 = ((x + -2)*(y + -5) + z*5)*((x + -2)*(y + -5) + z*5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_57", "lean_prop": "∀ x y z : ℤ, ((x + -5)*(y + 3) + z*1)^2 = ((x + -5)*(y + 3) + z*1)*((x + -5)*(y + 3) + z*1)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_58", "lean_prop": "∀ x y z : ℤ, ((x + 4)*(y + -4) + z*-1)^2 = ((x + 4)*(y + -4) + z*-1)*((x + 4)*(y + -4) + z*-1)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_59", "lean_prop": "∀ x y z : ℤ, ((x + -4)*(y + -2) + z*-4)^2 = ((x + -4)*(y + -2) + z*-4)*((x + -4)*(y + -2) + z*-4)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_60", "lean_prop": "∀ x y z : ℤ, ((x + 5)*(y + -1) + z*0)^2 = ((x + 5)*(y + -1) + z*0)*((x + 5)*(y + -1) + z*0)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_61", "lean_prop": "∀ x y z : ℤ, ((x + 1)*(y + -3) + z*-5)^2 = ((x + 1)*(y + -3) + z*-5)*((x + 1)*(y + -3) + z*-5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_62", "lean_prop": "∀ x y z : ℤ, ((x + 3)*(y + 2) + z*-5)^2 = ((x + 3)*(y + 2) + z*-5)*((x + 3)*(y + 2) + z*-5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_63", "lean_prop": "∀ x y z : ℤ, ((x + 4)*(y + -4) + z*1)^2 = ((x + 4)*(y + -4) + z*1)*((x + 4)*(y + -4) + z*1)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_64", "lean_prop": "∀ x y z : ℤ, ((x + -2)*(y + -1) + z*0)^2 = ((x + -2)*(y + -1) + z*0)*((x + -2)*(y + -1) + z*0)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_65", "lean_prop": "∀ x y z : ℤ, ((x + 2)*(y + 4) + z*-3)^2 = ((x + 2)*(y + 4) + z*-3)*((x + 2)*(y + 4) + z*-3)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_66", "lean_prop": "∀ x y z : ℤ, ((x + 5)*(y + -2) + z*-5)^2 = ((x + 5)*(y + -2) + z*-5)*((x + 5)*(y + -2) + z*-5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_67", "lean_prop": "∀ x y z : ℤ, ((x + 5)*(y + -3) + z*-3)^2 = ((x + 5)*(y + -3) + z*-3)*((x + 5)*(y + -3) + z*-3)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_68", "lean_prop": "∀ x y z : ℤ, ((x + 0)*(y + 3) + z*-1)^2 = ((x + 0)*(y + 3) + z*-1)*((x + 0)*(y + 3) + z*-1)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_69", "lean_prop": "∀ x y z : ℤ, ((x + -4)*(y + 4) + z*2)^2 = ((x + -4)*(y + 4) + z*2)*((x + -4)*(y + 4) + z*2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_70", "lean_prop": "∀ x y z : ℤ, ((x + 5)*(y + -3) + z*-5)^2 = ((x + 5)*(y + -3) + z*-5)*((x + 5)*(y + -3) + z*-5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_71", "lean_prop": "∀ x y z : ℤ, ((x + 2)*(y + 5) + z*1)^2 = ((x + 2)*(y + 5) + z*1)*((x + 2)*(y + 5) + z*1)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_72", "lean_prop": "∀ x y z : ℤ, ((x + 4)*(y + 3) + z*-1)^2 = ((x + 4)*(y + 3) + z*-1)*((x + 4)*(y + 3) + z*-1)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_73", "lean_prop": "∀ x y z : ℤ, ((x + 5)*(y + 0) + z*1)^2 = ((x + 5)*(y + 0) + z*1)*((x + 5)*(y + 0) + z*1)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_74", "lean_prop": "∀ x y z : ℤ, ((x + 5)*(y + -1) + z*-3)^2 = ((x + 5)*(y + -1) + z*-3)*((x + 5)*(y + -1) + z*-3)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_75", "lean_prop": "∀ x y z : ℤ, ((x + 3)*(y + -5) + z*2)^2 = ((x + 3)*(y + -5) + z*2)*((x + 3)*(y + -5) + z*2)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_76", "lean_prop": "∀ x y z : ℤ, ((x + -4)*(y + 0) + z*-5)^2 = ((x + -4)*(y + 0) + z*-5)*((x + -4)*(y + 0) + z*-5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_77", "lean_prop": "∀ x y z : ℤ, ((x + 3)*(y + -1) + z*-3)^2 = ((x + 3)*(y + -1) + z*-3)*((x + 3)*(y + -1) + z*-3)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_78", "lean_prop": "∀ x y z : ℤ, ((x + -2)*(y + 2) + z*0)^2 = ((x + -2)*(y + 2) + z*0)*((x + -2)*(y + 2) + z*0)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_ring_79", "lean_prop": "∀ x y z : ℤ, ((x + 4)*(y + -1) + z*5)^2 = ((x + 4)*(y + -1) + z*5)*((x + 4)*(y + -1) + z*5)", "split": "ood_style", "domain": "algebra", "style": "contest"}
+{"id": "hard_nlinarith_0", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_1", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_2", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_3", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_4", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_5", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_6", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_7", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_8", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_9", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_10", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_11", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_12", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_13", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_14", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_15", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_16", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_17", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_18", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}
+{"id": "hard_nlinarith_19", "lean_prop": "∀ x : ℝ, x^2 ≥ 0", "split": "ood_topic", "domain": "algebra", "style": "textbook"}

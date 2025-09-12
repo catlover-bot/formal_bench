@@ -1,0 +1,8 @@
+import Mathlib
+set_option linter.docPrime false
+namespace Eval
+def goalProp : Prop := {{ PROP }}
+theorem Proof : goalProp := by
+  {{ PROOF }}
+#check Proof
+end Eval

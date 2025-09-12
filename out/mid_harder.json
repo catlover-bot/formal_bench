@@ -1,0 +1,23 @@
+{
+  "Pass@k": 0.0,
+  "QES": 0.0,
+  "AUC@Time": 0.0,
+  "KernelTime_norm": 0.0,
+  "ProofLen_norm": 0.0,
+  "AxiomPenalty_avg": 0.0,
+  "by_split_or_domain_style": {},
+  "items": {},
+  "meta": {
+    "k": 4,
+    "aucT": 90.0,
+    "lambda": {
+      "t": 0.2,
+      "len": 0.1,
+      "ax": 0.15
+    },
+    "constructive": false,
+    "lean_dir": "/Users/hirotaka-m/formal_bench/lean",
+    "tpl": "tools/wrap_by.lean.j2",
+    "ban_strong": false
+  }
+}

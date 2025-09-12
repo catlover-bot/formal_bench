@@ -1,0 +1,1202 @@
+{
+  "ALG-TB-002780": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00150": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02451": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01829": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01404": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-000414": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02464": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01318": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00548": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00693": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02357": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01858": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01421": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02438": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01141": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01039": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-001168": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01412": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02060": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002336": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002789": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00719": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01321": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00182": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02523": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002934": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01456": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01475": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01758": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-001866": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-001713": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03886": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02375": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03818": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01572": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01980": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00789": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02948": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00763": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01810": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03114": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00973": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03233": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00448": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01091": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02474": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02806": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03147": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01845": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02061": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00417": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02933": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00621": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03333": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01088": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01159": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02981": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03943": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02004": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01777": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01856": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01736": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01643": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00574": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03873": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03700": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-000435": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00842": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01998": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00257": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-001447": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03553": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01120": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00132": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01234": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01016": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002332": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02377": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01060": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00130": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03671": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00209": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-001546": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01077": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03866": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02318": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03925": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002261": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03506": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03911": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02304": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01191": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00852": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03316": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00601": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00559": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03704": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01767": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02835": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02171": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01746": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00025": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00494": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002269": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00268": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01617": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01227": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02560": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03751": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03887": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002135": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02792": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01268": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02636": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-001658": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03836": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02634": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02606": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02768": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01175": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01682": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-000007": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002309": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-001150": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02387": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03545": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03073": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-001098": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02880": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03267": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03826": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02488": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03447": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-000398": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02953": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01209": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-001976": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002256": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-000249": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00705": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02435": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-000829": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002987": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02202": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02360": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01790": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00455": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01913": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03475": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-001356": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002806": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01207": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01783": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-000871": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02932": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02585": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002092": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02834": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03546": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01037": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002068": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00129": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002182": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-001070": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-001085": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02103": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-000596": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01747": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03270": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-001159": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-000838": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-000213": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002561": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03445": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-001892": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02228": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002315": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03048": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002391": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00783": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03646": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00723": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02138": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002906": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-03132": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-001437": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02801": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-000664": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-002499": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01229": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02671": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-001357": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01489": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02588": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02286": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02824": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-02592": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-00945": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-000352": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ],
+  "ALG-TB-01512": [
+    "simp",
+    "ring",
+    "linarith",
+    "nlinarith"
+  ]
+}

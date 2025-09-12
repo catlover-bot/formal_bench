@@ -1,0 +1,6 @@
+wrote out/splits.csv
+ime
+split::id,2,0.5,0.4526134284722098
+ds::algebra/textbook,2,0.5,0.4526134284722098
+split::ood_style,1,1.0,0.9459301305555629
+ds::algebra/contest,1,1.0,0.9459301305555629

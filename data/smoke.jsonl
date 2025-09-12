@@ -1,0 +1,10 @@
+{"id": "NT-TB-00001", "split": "id", "domain": "number_theory", "style": "textbook", "difficulty": 2, "lean_prop": "Nat.gcd 49 57 = 1", "license": "CC0", "source": {"kind": "synthetic", "seed": 0}}
+{"id": "NT-TB-00002", "split": "id", "domain": "number_theory", "style": "textbook", "difficulty": 2, "lean_prop": "59 ∣ 1534", "license": "CC0", "source": {"kind": "synthetic", "seed": 0}}
+{"id": "ALG-TB-00003", "split": "id", "domain": "algebra", "style": "textbook", "difficulty": 1, "lean_prop": "32 * 8 = 256", "license": "CC0", "source": {"kind": "synthetic", "seed": 0}}
+{"id": "NT-TB-00004", "split": "id", "domain": "number_theory", "style": "textbook", "difficulty": 1, "lean_prop": "59 ∣ 2065", "license": "CC0", "source": {"kind": "synthetic", "seed": 0}}
+{"id": "ALG-TB-00005", "split": "id", "domain": "algebra", "style": "textbook", "difficulty": 2, "lean_prop": "21 + 30 = 51", "license": "CC0", "source": {"kind": "synthetic", "seed": 0}}
+{"id": "NT-TB-00006", "split": "id", "domain": "number_theory", "style": "textbook", "difficulty": 2, "lean_prop": "¬ (21 ∣ 40)", "license": "CC0", "source": {"kind": "synthetic", "seed": 0}}
+{"id": "NT-TB-00007", "split": "id", "domain": "number_theory", "style": "textbook", "difficulty": 3, "lean_prop": "Nat.gcd 56 34 = 2", "license": "CC0", "source": {"kind": "synthetic", "seed": 0}}
+{"id": "ALG-TB-00008", "split": "id", "domain": "algebra", "style": "textbook", "difficulty": 3, "lean_prop": "5 + 25 = 30", "license": "CC0", "source": {"kind": "synthetic", "seed": 0}}
+{"id": "NT-TB-00009", "split": "id", "domain": "number_theory", "style": "textbook", "difficulty": 3, "lean_prop": "Nat.gcd 53 56 = 1", "license": "CC0", "source": {"kind": "synthetic", "seed": 0}}
+{"id": "NT-TB-00010", "split": "id", "domain": "number_theory", "style": "textbook", "difficulty": 3, "lean_prop": "Nat.gcd 46 56 = 2", "license": "CC0", "source": {"kind": "synthetic", "seed": 0}}

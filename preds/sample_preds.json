@@ -1,4 +1,352 @@
 {
-  "Q1": ["exact True.intro", "trivial"],
-  "Q2": ["trivial", "exact True.intro"]
+  "NT-TB-00001": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00002": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00003": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00004": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00005": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00006": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00007": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00008": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00009": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00010": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00011": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00012": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00013": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00014": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00015": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00016": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00017": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00018": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00019": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00020": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00021": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00022": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00023": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00024": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00025": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00026": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00027": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00028": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00029": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00030": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00031": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00032": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00033": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00034": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00035": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00036": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00037": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00038": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00039": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00040": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00041": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00042": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00043": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00044": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00045": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00046": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-TB-00047": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00048": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00049": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-TB-00050": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-CO-00051": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-CO-00052": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-CO-00053": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-CO-00054": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-CO-00055": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-CO-00056": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-CO-00057": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "ALG-CO-00058": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-CO-00059": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "NT-CO-00060": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "COM-TB-00061": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "COM-TB-00062": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "COM-TB-00063": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "COM-TB-00064": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "COM-TB-00065": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "COM-TB-00066": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "COM-TB-00067": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "COM-TB-00068": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "COM-TB-00069": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ],
+  "COM-TB-00070": [
+    "trivial",
+    "simp",
+    "exact True.intro"
+  ]
 }
