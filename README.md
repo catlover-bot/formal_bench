@@ -1,5 +1,3 @@
-了解！いまの成果と「Goedel-Prover ほか主要モデルを流せる README.md」を**そのままコピペで使える形**でまとめました。必要なところだけ置き換えてください。
-
 ---
 
 # formal\_bench: A tactic-ablations benchmark for Lean 4
@@ -256,3 +254,4 @@ python scripts/summarize_results.py  # out/*.json → out/*.csv 図表
 [4]: https://huggingface.co/Goedel-LM/Goedel-Prover-V2-8B?utm_source=chatgpt.com "Goedel-LM/Goedel-Prover-V2-8B"
 [5]: https://github.com/deepseek-ai/DeepSeek-Prover-V1.5?utm_source=chatgpt.com "deepseek-ai/DeepSeek-Prover-V1.5"
 [6]: https://github.com/GasStationManager/SafeVerify?utm_source=chatgpt.com "GasStationManager/SafeVerify: A Lean4 script for robustly ..."
+
