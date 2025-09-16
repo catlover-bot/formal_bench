@@ -197,7 +197,7 @@ def main():
     ap.add_argument(
         "--ban_strong",
         action="store_true",
-        help="ban strong tactics (simp_all,norm_num,linarith,nlinarith,ring,aesop,decide)",
+        help="ban strong tactics (nlinarith,aesop)",
     )
     args = ap.parse_args()
 
@@ -220,7 +220,7 @@ def main():
     buckets: Dict[str, Dict[str, Any]] = {}
 
     # 強戦術の簡易フィルタ
-    BANNED = ("simp_all", "norm_num", "linarith", "nlinarith", "ring", "aesop", "decide")
+    BANNED = ("nlinarith", "aesop")
 
     # JSONL 走査
     with open(args.input, "r", encoding="utf-8") as f:

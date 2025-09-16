@@ -1,0 +1,600 @@
+{"id": "hard_ring_eq_0", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_1", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_2", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_3", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_4", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_5", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_6", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_7", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_8", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_9", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_10", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_11", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_12", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_13", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_14", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_15", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_16", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_17", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_18", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_19", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_20", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_21", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_22", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_23", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_24", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_25", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_26", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_27", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_28", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_29", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_30", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_31", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_32", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_33", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_34", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_35", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_36", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_37", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_38", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_39", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_40", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_41", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_42", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_43", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_44", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_45", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_46", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_47", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_48", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_49", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_50", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_51", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_52", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_53", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_54", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_55", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_56", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_57", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_58", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_59", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_60", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_61", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_62", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_63", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_64", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_65", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_66", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_67", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_68", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_69", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_70", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_71", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_72", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_73", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_74", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_75", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_76", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_77", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_78", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_79", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_80", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_81", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_82", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_83", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_84", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_85", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_86", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_87", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_88", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_89", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_90", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_91", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_92", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_93", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_94", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_95", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_96", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_97", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_98", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_99", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_100", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_101", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_102", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_103", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_104", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_105", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_106", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_107", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_108", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_109", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_110", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_111", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_112", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_113", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_114", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_115", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_116", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_117", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_118", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_119", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_120", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_121", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_122", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_123", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_124", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_125", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_126", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_127", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_128", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_129", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_130", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_131", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_132", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_133", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_134", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_135", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_136", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_137", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_138", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_139", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_140", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_141", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_142", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_143", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_144", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_145", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_146", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_147", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_148", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_149", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_150", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_151", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_152", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_153", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_154", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_155", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_156", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_157", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_158", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_159", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_160", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_161", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_162", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_163", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_164", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_165", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_166", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_167", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_168", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_169", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_170", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_171", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_172", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_173", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_174", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_175", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_176", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_177", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_178", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_179", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_180", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_181", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_182", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_183", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_184", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_185", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_186", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_187", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_188", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_189", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_190", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_191", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_192", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_193", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_194", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_195", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_196", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_197", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_198", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_ring_eq_199", "lean_prop": "∀ x y : ℚ, (x + y)^2 = x^2 + 2*x*y + y^2", "split": "ood_topic", "domain": "algebra", "style": "eq"}
+{"id": "hard_linarith_0", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_1", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_2", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_3", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_4", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_5", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_6", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_7", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_8", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_9", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_10", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_11", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_12", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_13", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_14", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_15", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_16", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_17", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_18", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_19", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_20", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_21", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_22", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_23", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_24", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_25", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_26", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_27", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_28", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_29", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_30", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_31", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_32", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_33", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_34", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_35", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_36", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_37", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_38", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_39", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_40", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_41", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_42", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_43", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_44", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_45", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_46", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_47", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_48", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_49", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_50", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_51", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_52", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_53", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_54", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_55", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_56", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_57", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_58", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_59", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_60", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_61", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_62", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_63", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_64", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_65", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_66", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_67", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_68", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_69", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_70", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_71", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_72", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_73", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_74", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_75", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_76", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_77", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_78", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_79", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_80", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_81", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_82", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_83", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_84", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_85", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_86", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_87", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_88", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_89", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_90", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_91", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_92", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_93", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_94", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_95", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_96", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_97", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_98", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_99", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_100", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_101", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_102", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_103", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_104", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_105", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_106", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_107", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_108", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_109", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_110", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_111", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_112", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_113", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_114", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_115", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_116", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_117", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_118", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_119", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_120", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_121", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_122", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_123", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_124", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_125", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_126", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_127", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_128", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_129", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_130", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_131", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_132", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_133", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_134", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_135", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_136", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_137", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_138", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_139", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_140", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_141", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_142", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_143", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_144", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_145", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_146", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_147", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_148", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_149", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_150", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_151", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_152", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_153", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_154", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_155", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_156", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_157", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_158", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_159", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_160", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_161", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_162", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_163", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_164", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_165", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_166", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_167", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_168", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_169", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_170", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_171", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_172", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_173", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_174", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_175", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_176", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_177", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_178", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_179", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_180", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_181", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_182", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_183", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_184", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_185", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_186", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_187", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_188", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_189", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_190", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_191", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_192", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_193", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_194", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_195", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_196", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_197", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_198", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_linarith_199", "lean_prop": "∀ x y : ℚ, x ≤ y ∧ y ≤ x → x = y", "split": "ood_topic", "domain": "order", "style": "lin"}
+{"id": "hard_nlin_0", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_1", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_2", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_3", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_4", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_5", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_6", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_7", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_8", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_9", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_10", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_11", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_12", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_13", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_14", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_15", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_16", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_17", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_18", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_19", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_20", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_21", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_22", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_23", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_24", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_25", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_26", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_27", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_28", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_29", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_30", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_31", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_32", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_33", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_34", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_35", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_36", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_37", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_38", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_39", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_40", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_41", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_42", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_43", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_44", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_45", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_46", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_47", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_48", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_49", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_50", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_51", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_52", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_53", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_54", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_55", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_56", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_57", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_58", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_59", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_60", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_61", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_62", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_63", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_64", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_65", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_66", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_67", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_68", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_69", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_70", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_71", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_72", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_73", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_74", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_75", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_76", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_77", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_78", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_79", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_80", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_81", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_82", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_83", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_84", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_85", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_86", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_87", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_88", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_89", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_90", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_91", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_92", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_93", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_94", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_95", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_96", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_97", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_98", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_99", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_100", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_101", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_102", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_103", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_104", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_105", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_106", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_107", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_108", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_109", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_110", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_111", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_112", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_113", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_114", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_115", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_116", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_117", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_118", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_119", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_120", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_121", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_122", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_123", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_124", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_125", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_126", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_127", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_128", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_129", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_130", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_131", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_132", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_133", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_134", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_135", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_136", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_137", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_138", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_139", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_140", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_141", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_142", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_143", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_144", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_145", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_146", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_147", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_148", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_149", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_150", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_151", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_152", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_153", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_154", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_155", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_156", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_157", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_158", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_159", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_160", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_161", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_162", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_163", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_164", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_165", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_166", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_167", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_168", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_169", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_170", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_171", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_172", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_173", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_174", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_175", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_176", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_177", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_178", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_179", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_180", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_181", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_182", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_183", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_184", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_185", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_186", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_187", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_188", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_189", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_190", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_191", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_192", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_193", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_194", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_195", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_196", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_197", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_198", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}
+{"id": "hard_nlin_199", "lean_prop": "∀ x : ℝ, 0 ≤ (x - 3)^2", "split": "ood_topic", "domain": "ineq", "style": "nlin"}

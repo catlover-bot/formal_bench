@@ -1,0 +1,5445 @@
+{
+  "Pass@k": 0.6666666666666666,
+  "QES": 0.5467125438338762,
+  "AUC@Time": 0.5387078014259075,
+  "KernelTime_norm": 0.4145854289787665,
+  "ProofLen_norm": 0.3703703703703704,
+  "AxiomPenalty_avg": 0.0,
+  "by_split_or_domain_style": {
+    "split::ood_topic": {
+      "N": 600,
+      "Pass@k": 0.6666666666666666,
+      "AUC@Time": 0.5387078014259075
+    },
+    "ds::algebra/eq": {
+      "N": 200,
+      "Pass@k": 1.0,
+      "AUC@Time": 0.9317052157869072
+    },
+    "ds::order/lin": {
+      "N": 200,
+      "Pass@k": 1.0,
+      "AUC@Time": 0.6844181884908146
+    },
+    "ds::ineq/nlin": {
+      "N": 200,
+      "Pass@k": 0.0,
+      "AUC@Time": 0.0
+    }
+  },
+  "items": {
+    "hard_ring_eq_0": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 29.95087575004436,
+      "kernel_time_med": 29.95087575004436,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_1": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.036810416029766,
+      "kernel_time_med": 6.036810416029766,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_2": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.842037917114794,
+      "kernel_time_med": 5.842037917114794,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_3": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.823046125005931,
+      "kernel_time_med": 5.823046125005931,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_4": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.074429542059079,
+      "kernel_time_med": 6.074429542059079,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_5": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.429195667151362,
+      "kernel_time_med": 5.429195667151362,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_6": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.908802916994318,
+      "kernel_time_med": 5.908802916994318,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_7": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.726201041135937,
+      "kernel_time_med": 4.726201041135937,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_8": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.91329204197973,
+      "kernel_time_med": 5.91329204197973,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_9": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.426106040831655,
+      "kernel_time_med": 4.426106040831655,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_10": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.8316019999329,
+      "kernel_time_med": 5.8316019999329,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_11": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 7.706862458027899,
+      "kernel_time_med": 7.706862458027899,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_12": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.418853458948433,
+      "kernel_time_med": 5.418853458948433,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_13": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.950789458118379,
+      "kernel_time_med": 5.950789458118379,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_14": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.680997916962951,
+      "kernel_time_med": 4.680997916962951,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_15": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.413112042006105,
+      "kernel_time_med": 8.413112042006105,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_16": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.6109279580414295,
+      "kernel_time_med": 5.6109279580414295,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_17": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.347342290915549,
+      "kernel_time_med": 5.347342290915549,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_18": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.915594584075734,
+      "kernel_time_med": 5.915594584075734,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_19": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.687118707923219,
+      "kernel_time_med": 4.687118707923219,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_20": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.213895583059639,
+      "kernel_time_med": 8.213895583059639,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_21": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.775822875089943,
+      "kernel_time_med": 5.775822875089943,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_22": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.357240333920345,
+      "kernel_time_med": 5.357240333920345,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_23": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.9505887078121305,
+      "kernel_time_med": 5.9505887078121305,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_24": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.690260333009064,
+      "kernel_time_med": 4.690260333009064,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_25": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.946196916978806,
+      "kernel_time_med": 5.946196916978806,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_26": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.446740875020623,
+      "kernel_time_med": 4.446740875020623,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_27": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.987038291990757,
+      "kernel_time_med": 5.987038291990757,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_28": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.116826708894223,
+      "kernel_time_med": 8.116826708894223,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_29": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.0849801250733435,
+      "kernel_time_med": 5.0849801250733435,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_30": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.652149917092174,
+      "kernel_time_med": 8.652149917092174,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_31": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.913830125005916,
+      "kernel_time_med": 5.913830125005916,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_32": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.730220125056803,
+      "kernel_time_med": 4.730220125056803,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_33": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.698555833892897,
+      "kernel_time_med": 4.698555833892897,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_34": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.546743874903768,
+      "kernel_time_med": 5.546743874903768,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_35": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.026654082816094,
+      "kernel_time_med": 6.026654082816094,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_36": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.736437791027129,
+      "kernel_time_med": 4.736437791027129,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_37": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.94448974984698,
+      "kernel_time_med": 5.94448974984698,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_38": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.4793725840281695,
+      "kernel_time_med": 4.4793725840281695,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_39": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.934795250184834,
+      "kernel_time_med": 5.934795250184834,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_40": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.887764042010531,
+      "kernel_time_med": 5.887764042010531,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_41": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 7.965966582996771,
+      "kernel_time_med": 7.965966582996771,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_42": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.305770457955077,
+      "kernel_time_med": 5.305770457955077,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_43": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.6301860420499,
+      "kernel_time_med": 4.6301860420499,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_44": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.858707084087655,
+      "kernel_time_med": 5.858707084087655,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_45": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.485917417099699,
+      "kernel_time_med": 4.485917417099699,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_46": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.927713708952069,
+      "kernel_time_med": 5.927713708952069,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_47": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.01072416594252,
+      "kernel_time_med": 8.01072416594252,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_48": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.133121917024255,
+      "kernel_time_med": 5.133121917024255,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_49": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.865528833819553,
+      "kernel_time_med": 5.865528833819553,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_50": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.632613125024363,
+      "kernel_time_med": 4.632613125024363,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_51": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.437675874913111,
+      "kernel_time_med": 8.437675874913111,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_52": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.288076875032857,
+      "kernel_time_med": 8.288076875032857,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_53": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.815070375101641,
+      "kernel_time_med": 5.815070375101641,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_54": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.959098957944661,
+      "kernel_time_med": 5.959098957944661,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_55": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.987745917169377,
+      "kernel_time_med": 5.987745917169377,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_56": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.077283415943384,
+      "kernel_time_med": 5.077283415943384,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_57": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.935636167181656,
+      "kernel_time_med": 5.935636167181656,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_58": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.552376916864887,
+      "kernel_time_med": 4.552376916864887,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_59": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.10326062515378,
+      "kernel_time_med": 8.10326062515378,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_60": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.966910290997475,
+      "kernel_time_med": 5.966910290997475,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_61": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.262353250058368,
+      "kernel_time_med": 5.262353250058368,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_62": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.014350708108395,
+      "kernel_time_med": 6.014350708108395,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_63": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.60535820806399,
+      "kernel_time_med": 4.60535820806399,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_64": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.604908749926835,
+      "kernel_time_med": 6.604908749926835,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_65": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.96794354217127,
+      "kernel_time_med": 5.96794354217127,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_66": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.014807249885052,
+      "kernel_time_med": 6.014807249885052,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_67": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.219113541068509,
+      "kernel_time_med": 6.219113541068509,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_68": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.915975208161399,
+      "kernel_time_med": 4.915975208161399,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_69": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.102273290976882,
+      "kernel_time_med": 6.102273290976882,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_70": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.681037417147309,
+      "kernel_time_med": 4.681037417147309,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_71": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.143839749973267,
+      "kernel_time_med": 6.143839749973267,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_72": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.103259042138234,
+      "kernel_time_med": 6.103259042138234,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_73": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.960319957928732,
+      "kernel_time_med": 5.960319957928732,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_74": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.025300207780674,
+      "kernel_time_med": 6.025300207780674,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_75": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.909131541848183,
+      "kernel_time_med": 4.909131541848183,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_76": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.272935040993616,
+      "kernel_time_med": 8.272935040993616,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_77": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.060891625005752,
+      "kernel_time_med": 6.060891625005752,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_78": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.289613417116925,
+      "kernel_time_med": 5.289613417116925,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_79": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.874518832890317,
+      "kernel_time_med": 5.874518832890317,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_80": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.6367177499923855,
+      "kernel_time_med": 4.6367177499923855,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_81": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.415355833014473,
+      "kernel_time_med": 8.415355833014473,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_82": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.877811666810885,
+      "kernel_time_med": 5.877811666810885,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_83": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.248884208034724,
+      "kernel_time_med": 5.248884208034724,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_84": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.745518875075504,
+      "kernel_time_med": 5.745518875075504,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_85": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.711553917033598,
+      "kernel_time_med": 4.711553917033598,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_86": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.550904999952763,
+      "kernel_time_med": 8.550904999952763,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_87": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.001203791005537,
+      "kernel_time_med": 6.001203791005537,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_88": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.113510249881074,
+      "kernel_time_med": 5.113510249881074,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_89": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.885275291046128,
+      "kernel_time_med": 5.885275291046128,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_90": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.578356415964663,
+      "kernel_time_med": 4.578356415964663,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_91": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.065007333178073,
+      "kernel_time_med": 6.065007333178073,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_92": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.992028499953449,
+      "kernel_time_med": 5.992028499953449,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_93": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.894691666821018,
+      "kernel_time_med": 5.894691666821018,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_94": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.981030625058338,
+      "kernel_time_med": 5.981030625058338,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_95": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.331097792135552,
+      "kernel_time_med": 5.331097792135552,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_96": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.228663665940985,
+      "kernel_time_med": 5.228663665940985,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_97": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.076906124828383,
+      "kernel_time_med": 5.076906124828383,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_98": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.204264666885138,
+      "kernel_time_med": 8.204264666885138,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_99": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.79880337510258,
+      "kernel_time_med": 5.79880337510258,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_100": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.414916167035699,
+      "kernel_time_med": 5.414916167035699,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_101": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.036517708096653,
+      "kernel_time_med": 6.036517708096653,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_102": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.730137707898393,
+      "kernel_time_med": 4.730137707898393,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_103": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.962850832846016,
+      "kernel_time_med": 5.962850832846016,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_104": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.763029582798481,
+      "kernel_time_med": 4.763029582798481,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_105": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.263484499882907,
+      "kernel_time_med": 6.263484499882907,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_106": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.934178916970268,
+      "kernel_time_med": 5.934178916970268,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_107": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.9336410840041935,
+      "kernel_time_med": 5.9336410840041935,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_108": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.523508459096774,
+      "kernel_time_med": 8.523508459096774,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_109": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.973286167019978,
+      "kernel_time_med": 5.973286167019978,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_110": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.692440167069435,
+      "kernel_time_med": 5.692440167069435,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_111": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.44585462519899,
+      "kernel_time_med": 6.44585462519899,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_112": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.623185166856274,
+      "kernel_time_med": 4.623185166856274,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_113": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.638189709046856,
+      "kernel_time_med": 8.638189709046856,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_114": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.839242167072371,
+      "kernel_time_med": 5.839242167072371,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_115": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.068419832969084,
+      "kernel_time_med": 5.068419832969084,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_116": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.073339249938726,
+      "kernel_time_med": 6.073339249938726,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_117": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.518166334135458,
+      "kernel_time_med": 4.518166334135458,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_118": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.405079124961048,
+      "kernel_time_med": 8.405079124961048,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_119": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 7.293244207976386,
+      "kernel_time_med": 7.293244207976386,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_120": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.778835832839832,
+      "kernel_time_med": 6.778835832839832,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_121": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.056628292193636,
+      "kernel_time_med": 6.056628292193636,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_122": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 7.946138458093628,
+      "kernel_time_med": 7.946138458093628,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_123": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 7.422984916018322,
+      "kernel_time_med": 7.422984916018322,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_124": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.7494290000759065,
+      "kernel_time_med": 4.7494290000759065,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_125": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.577445500064641,
+      "kernel_time_med": 5.577445500064641,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_126": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.500976625131443,
+      "kernel_time_med": 4.500976625131443,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_127": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.428460625000298,
+      "kernel_time_med": 4.428460625000298,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_128": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.806440791115165,
+      "kernel_time_med": 4.806440791115165,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_129": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.802790124900639,
+      "kernel_time_med": 5.802790124900639,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_130": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.178476667031646,
+      "kernel_time_med": 5.178476667031646,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_131": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.060142875183374,
+      "kernel_time_med": 6.060142875183374,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_132": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.686352583114058,
+      "kernel_time_med": 4.686352583114058,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_133": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.026559166843072,
+      "kernel_time_med": 6.026559166843072,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_134": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 7.9590192921459675,
+      "kernel_time_med": 7.9590192921459675,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_135": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.388688999926671,
+      "kernel_time_med": 5.388688999926671,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_136": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 7.109498250065371,
+      "kernel_time_med": 7.109498250065371,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_137": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.869547708891332,
+      "kernel_time_med": 5.869547708891332,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_138": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.096591291949153,
+      "kernel_time_med": 6.096591291949153,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_139": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.8100117079447955,
+      "kernel_time_med": 5.8100117079447955,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_140": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.236105249961838,
+      "kernel_time_med": 5.236105249961838,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_141": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.43345991591923,
+      "kernel_time_med": 8.43345991591923,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_142": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.0035385000519454,
+      "kernel_time_med": 6.0035385000519454,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_143": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.324944542022422,
+      "kernel_time_med": 5.324944542022422,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_144": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.428386040963233,
+      "kernel_time_med": 8.428386040963233,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_145": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.767124000005424,
+      "kernel_time_med": 6.767124000005424,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_146": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.081369708990678,
+      "kernel_time_med": 5.081369708990678,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_147": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.287004499929026,
+      "kernel_time_med": 8.287004499929026,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_148": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.991633875062689,
+      "kernel_time_med": 5.991633875062689,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_149": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.403102417010814,
+      "kernel_time_med": 5.403102417010814,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_150": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.2460470830556,
+      "kernel_time_med": 8.2460470830556,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_151": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.873304000124335,
+      "kernel_time_med": 5.873304000124335,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_152": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.935867249965668,
+      "kernel_time_med": 5.935867249965668,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_153": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.28968391707167,
+      "kernel_time_med": 8.28968391707167,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_154": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.907153625041246,
+      "kernel_time_med": 5.907153625041246,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_155": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.550238207913935,
+      "kernel_time_med": 5.550238207913935,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_156": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.015648499829695,
+      "kernel_time_med": 6.015648499829695,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_157": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.782004666980356,
+      "kernel_time_med": 4.782004666980356,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_158": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.011741959024221,
+      "kernel_time_med": 6.011741959024221,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_159": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.936379084130749,
+      "kernel_time_med": 5.936379084130749,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_160": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.994330749846995,
+      "kernel_time_med": 5.994330749846995,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_161": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.033713124925271,
+      "kernel_time_med": 6.033713124925271,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_162": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.395173999946564,
+      "kernel_time_med": 5.395173999946564,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_163": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.103027208941057,
+      "kernel_time_med": 8.103027208941057,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_164": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.291379334172234,
+      "kernel_time_med": 8.291379334172234,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_165": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.419889874989167,
+      "kernel_time_med": 4.419889874989167,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_166": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.527405499946326,
+      "kernel_time_med": 8.527405499946326,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_167": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 7.215791458962485,
+      "kernel_time_med": 7.215791458962485,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_168": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.458531375043094,
+      "kernel_time_med": 4.458531375043094,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_169": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.02256316691637,
+      "kernel_time_med": 6.02256316691637,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_170": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 7.8521238749381155,
+      "kernel_time_med": 7.8521238749381155,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_171": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.103094500023872,
+      "kernel_time_med": 5.103094500023872,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_172": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.267103167017922,
+      "kernel_time_med": 8.267103167017922,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_173": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.075160667067394,
+      "kernel_time_med": 6.075160667067394,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_174": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.504051207797602,
+      "kernel_time_med": 5.504051207797602,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_175": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.673109625000507,
+      "kernel_time_med": 5.673109625000507,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_176": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.90850254194811,
+      "kernel_time_med": 4.90850254194811,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_177": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.043176583014429,
+      "kernel_time_med": 6.043176583014429,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_178": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.492304000072181,
+      "kernel_time_med": 4.492304000072181,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_179": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.074047000147402,
+      "kernel_time_med": 6.074047000147402,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_180": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.769779583904892,
+      "kernel_time_med": 5.769779583904892,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_181": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.93447370803915,
+      "kernel_time_med": 6.93447370803915,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_182": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.144738707924262,
+      "kernel_time_med": 8.144738707924262,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_183": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.873998666880652,
+      "kernel_time_med": 5.873998666880652,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_184": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.267172374995425,
+      "kernel_time_med": 8.267172374995425,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_185": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 7.479388291947544,
+      "kernel_time_med": 7.479388291947544,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_186": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.836837374838069,
+      "kernel_time_med": 5.836837374838069,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_187": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.95573304197751,
+      "kernel_time_med": 4.95573304197751,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_188": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.857960915891454,
+      "kernel_time_med": 5.857960915891454,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_189": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.535700582899153,
+      "kernel_time_med": 4.535700582899153,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_190": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.666818541008979,
+      "kernel_time_med": 5.666818541008979,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_191": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.535039917100221,
+      "kernel_time_med": 4.535039917100221,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_192": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 6.095252166036516,
+      "kernel_time_med": 6.095252166036516,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_193": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.253199167083949,
+      "kernel_time_med": 8.253199167083949,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_194": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.022504874970764,
+      "kernel_time_med": 5.022504874970764,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_195": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.952458708081394,
+      "kernel_time_med": 5.952458708081394,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_196": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 4.521105040796101,
+      "kernel_time_med": 4.521105040796101,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_197": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.8939070829655975,
+      "kernel_time_med": 5.8939070829655975,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_198": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 5.8991418750956655,
+      "kernel_time_med": 5.8991418750956655,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_ring_eq_199": {
+      "pass": true,
+      "winner": "intros; simp [pow_two] at *; ring_nf",
+      "t_success": 8.34445424983278,
+      "kernel_time_med": 8.34445424983278,
+      "proof_len_med_tok": 6,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_0": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 34.87095000082627,
+      "kernel_time_med": 7.032264416804537,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_1": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.89372750115581,
+      "kernel_time_med": 5.0509662081021816,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_2": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.625003916677088,
+      "kernel_time_med": 5.547885541804135,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_3": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.247302500065416,
+      "kernel_time_med": 5.909976709168404,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_4": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.11569624999538,
+      "kernel_time_med": 5.727289542090148,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_5": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.392895832890645,
+      "kernel_time_med": 5.594992707949132,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_6": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.048872168175876,
+      "kernel_time_med": 4.801062416983768,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_7": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.538476875051856,
+      "kernel_time_med": 5.7083982499316335,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_8": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.241072874050587,
+      "kernel_time_med": 5.648507790872827,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_9": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.430151623673737,
+      "kernel_time_med": 5.759946332778782,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_10": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.750534208957106,
+      "kernel_time_med": 5.4266672499943525,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_11": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.879989210050553,
+      "kernel_time_med": 5.641246208921075,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_12": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.272025582147762,
+      "kernel_time_med": 5.886509166099131,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_13": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.100677917245775,
+      "kernel_time_med": 5.912245250074193,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_14": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.227544124936685,
+      "kernel_time_med": 5.892634707968682,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_15": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.808664333075285,
+      "kernel_time_med": 5.996497957967222,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_16": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.407744875876233,
+      "kernel_time_med": 5.577276249881834,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_17": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.005488042719662,
+      "kernel_time_med": 5.890944540966302,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_18": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.311383500229567,
+      "kernel_time_med": 6.071963416179642,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_19": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.107060126028955,
+      "kernel_time_med": 5.325172916986048,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_20": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.71285174926743,
+      "kernel_time_med": 5.862371833063662,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_21": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.702694415813312,
+      "kernel_time_med": 5.677449333015829,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_22": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.2064592090901,
+      "kernel_time_med": 6.189767749980092,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_23": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 30.342558750649914,
+      "kernel_time_med": 6.496984249912202,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_24": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.951746040722355,
+      "kernel_time_med": 5.577814624877647,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_25": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.176195373991504,
+      "kernel_time_med": 5.943756500026211,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_26": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.69478283287026,
+      "kernel_time_med": 6.292357542086393,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_27": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.51921154279262,
+      "kernel_time_med": 5.980318874819204,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_28": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.760466208914295,
+      "kernel_time_med": 5.6717881669756025,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_29": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.078296209219843,
+      "kernel_time_med": 5.8101266250014305,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_30": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 25.889480041805655,
+      "kernel_time_med": 5.058373625157401,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_31": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.160933582810685,
+      "kernel_time_med": 6.039444583002478,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_32": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.129980750149116,
+      "kernel_time_med": 5.567320792004466,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_33": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.219670166727155,
+      "kernel_time_med": 5.64257241692394,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_34": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.206474581966177,
+      "kernel_time_med": 5.730848249979317,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_35": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.861873290734366,
+      "kernel_time_med": 5.6006698329001665,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_36": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.069693750701845,
+      "kernel_time_med": 5.826338999904692,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_37": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.75073691783473,
+      "kernel_time_med": 5.572332749841735,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_38": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.570635334122926,
+      "kernel_time_med": 5.73443741700612,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_39": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.79168558283709,
+      "kernel_time_med": 6.357755416771397,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_40": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.892458625603467,
+      "kernel_time_med": 5.566741291899234,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_41": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.90709450095892,
+      "kernel_time_med": 5.697481666924432,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_42": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.5247792492155,
+      "kernel_time_med": 6.091265542199835,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_43": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.162399709923193,
+      "kernel_time_med": 5.920661499956623,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_44": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.55240812478587,
+      "kernel_time_med": 6.002115917159244,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_45": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 30.174418499926105,
+      "kernel_time_med": 6.577701416797936,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_46": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.08072974975221,
+      "kernel_time_med": 5.519274832913652,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_47": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.028533541364595,
+      "kernel_time_med": 5.594727582996711,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_48": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.59983354061842,
+      "kernel_time_med": 5.494217708008364,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_49": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.182304125046358,
+      "kernel_time_med": 5.408936792053282,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_50": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.20104466495104,
+      "kernel_time_med": 5.666427040938288,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_51": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.45191483432427,
+      "kernel_time_med": 5.190638458123431,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_52": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.891081249108538,
+      "kernel_time_med": 5.4266032909508795,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_53": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.99699966586195,
+      "kernel_time_med": 5.71202545799315,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_54": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.750573916360736,
+      "kernel_time_med": 6.36885445821099,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_55": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.192682499997318,
+      "kernel_time_med": 5.987384750042111,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_56": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.594198417151347,
+      "kernel_time_med": 6.079274374991655,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_57": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.059694458032027,
+      "kernel_time_med": 5.797617415897548,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_58": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.2251182498876,
+      "kernel_time_med": 5.548308124998584,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_59": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.327377124223858,
+      "kernel_time_med": 5.720554792089388,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_60": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.921846915734932,
+      "kernel_time_med": 5.934149832930416,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_61": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.162627541925758,
+      "kernel_time_med": 5.982898375019431,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_62": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.231773416046053,
+      "kernel_time_med": 5.701236250111833,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_63": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.981144540943205,
+      "kernel_time_med": 6.065264875069261,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_64": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.309321666136384,
+      "kernel_time_med": 5.911350625101477,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_65": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.84430433320813,
+      "kernel_time_med": 5.587204958079383,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_66": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.740383333759382,
+      "kernel_time_med": 5.576470458880067,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_67": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.08020570827648,
+      "kernel_time_med": 5.997177500044927,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_68": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.52376304077916,
+      "kernel_time_med": 5.2385380838532,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_69": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.493251624982804,
+      "kernel_time_med": 5.8323500419501215,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_70": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 25.4420030831825,
+      "kernel_time_med": 4.774878042051569,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_71": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.772273959359154,
+      "kernel_time_med": 5.753775791963562,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_72": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.974762248806655,
+      "kernel_time_med": 5.301550250034779,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_73": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.361086457734928,
+      "kernel_time_med": 5.676652499940246,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_74": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.421105125220492,
+      "kernel_time_med": 5.801269124960527,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_75": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.424140251008794,
+      "kernel_time_med": 5.115935874870047,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_76": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.081080876057968,
+      "kernel_time_med": 5.6628522500395775,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_77": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.886012874776497,
+      "kernel_time_med": 6.080462916987017,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_78": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.851636540610343,
+      "kernel_time_med": 5.612447416875511,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_79": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.70527225220576,
+      "kernel_time_med": 5.891855834051967,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_80": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.411788875004277,
+      "kernel_time_med": 5.116649457952008,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_81": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.983516708016396,
+      "kernel_time_med": 6.025733042042702,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_82": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.801488165277988,
+      "kernel_time_med": 5.612109125126153,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_83": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.69277295889333,
+      "kernel_time_med": 6.370040291920304,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_84": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.323743499815464,
+      "kernel_time_med": 5.798698332859203,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_85": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.213662417139858,
+      "kernel_time_med": 5.383157167118043,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_86": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.634781958069652,
+      "kernel_time_med": 6.032134625129402,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_87": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.87446775007993,
+      "kernel_time_med": 5.775891749886796,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_88": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.64466104353778,
+      "kernel_time_med": 5.717314542038366,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_89": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.895871999906376,
+      "kernel_time_med": 5.698822250124067,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_90": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.874410333344713,
+      "kernel_time_med": 6.06758933304809,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_91": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.959073123987764,
+      "kernel_time_med": 5.912393749924377,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_92": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.656733585055918,
+      "kernel_time_med": 5.64154920889996,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_93": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.049623624654487,
+      "kernel_time_med": 5.778616541996598,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_94": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.464211666956544,
+      "kernel_time_med": 6.361714790808037,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_95": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.443006375338882,
+      "kernel_time_med": 5.910034083062783,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_96": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.36479699984193,
+      "kernel_time_med": 5.9897428748663515,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_97": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.125219290843233,
+      "kernel_time_med": 5.6219769169110805,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_98": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.49376387312077,
+      "kernel_time_med": 5.919335541082546,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_99": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.792410750640556,
+      "kernel_time_med": 5.610155791975558,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_100": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.608049124013633,
+      "kernel_time_med": 5.8901879580225796,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_101": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.71821320988238,
+      "kernel_time_med": 5.86900549987331,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_102": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.576848914846778,
+      "kernel_time_med": 5.741042665904388,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_103": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.308916291221976,
+      "kernel_time_med": 5.647112250095233,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_104": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.0161688728258,
+      "kernel_time_med": 5.773644333006814,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_105": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.737617916194722,
+      "kernel_time_med": 5.968749917112291,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_106": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.937673415988684,
+      "kernel_time_med": 5.602995957946405,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_107": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.611894126050174,
+      "kernel_time_med": 6.035642084199935,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_108": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.72782399947755,
+      "kernel_time_med": 5.848309708992019,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_109": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.865268459310755,
+      "kernel_time_med": 5.846595167182386,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_110": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.671682626008987,
+      "kernel_time_med": 6.337608000030741,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_111": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.417932333191857,
+      "kernel_time_med": 5.72832908295095,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_112": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.907096832990646,
+      "kernel_time_med": 5.9211553749628365,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_113": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 30.522972125792876,
+      "kernel_time_med": 6.471252999966964,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_114": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.071326001081616,
+      "kernel_time_med": 5.148259083973244,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_115": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.758651999058202,
+      "kernel_time_med": 6.348636208102107,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_116": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.624046626267955,
+      "kernel_time_med": 5.78486733417958,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_117": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.193697666749358,
+      "kernel_time_med": 5.962469374993816,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_118": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.612172290682793,
+      "kernel_time_med": 6.247016915818676,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_119": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.914506667293608,
+      "kernel_time_med": 5.685441249981523,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_120": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.21539958473295,
+      "kernel_time_med": 6.159549250034615,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_121": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.08138108300045,
+      "kernel_time_med": 5.6604614169336855,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_122": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.55147079261951,
+      "kernel_time_med": 5.259791374905035,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_123": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.353163332212716,
+      "kernel_time_med": 5.842245916137472,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_124": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.736149415839463,
+      "kernel_time_med": 5.644386832835153,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_125": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 30.086379708955064,
+      "kernel_time_med": 6.554592499975115,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_126": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.521310791140422,
+      "kernel_time_med": 5.911115166032687,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_127": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 30.11716450122185,
+      "kernel_time_med": 6.396299500018358,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_128": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.29753154097125,
+      "kernel_time_med": 6.120517916046083,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_129": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.84953216696158,
+      "kernel_time_med": 5.80362483416684,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_130": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.23543429072015,
+      "kernel_time_med": 5.839796042069793,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_131": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.89761795895174,
+      "kernel_time_med": 5.301030749920756,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_132": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.520696917083114,
+      "kernel_time_med": 5.971230334136635,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_133": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.016965876333416,
+      "kernel_time_med": 5.78016212512739,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_134": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.507434584200382,
+      "kernel_time_med": 5.714140125084668,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_135": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.29388233507052,
+      "kernel_time_med": 5.94873533397913,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_136": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.70565670891665,
+      "kernel_time_med": 6.233797583961859,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_137": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.482022416545078,
+      "kernel_time_med": 5.890132749918848,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_138": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.738624958321452,
+      "kernel_time_med": 4.532320917118341,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_139": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.03369470825419,
+      "kernel_time_med": 5.9481813330203295,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_140": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.384714708896354,
+      "kernel_time_med": 5.677579249953851,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_141": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.59326925058849,
+      "kernel_time_med": 5.847801874857396,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_142": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.4822712498717,
+      "kernel_time_med": 6.212474290980026,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_143": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.834830209147185,
+      "kernel_time_med": 5.983675417024642,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_144": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.461098708212376,
+      "kernel_time_med": 5.846244000131264,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_145": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.619802749948576,
+      "kernel_time_med": 6.067072374979034,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_146": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.536541332956403,
+      "kernel_time_med": 5.45513974991627,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_147": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 30.050743791041896,
+      "kernel_time_med": 6.488586249994114,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_148": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 30.20393499964848,
+      "kernel_time_med": 6.363476458005607,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_149": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.50696204113774,
+      "kernel_time_med": 5.958098417147994,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_150": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.67288125003688,
+      "kernel_time_med": 5.678524000104517,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_151": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 25.911200625123456,
+      "kernel_time_med": 4.81530479202047,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_152": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.042433792259544,
+      "kernel_time_med": 5.777631625067443,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_153": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.177504581864923,
+      "kernel_time_med": 6.295338915893808,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_154": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.969865998486057,
+      "kernel_time_med": 5.969424666836858,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_155": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.712989458814263,
+      "kernel_time_med": 5.6736051249317825,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_156": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.875717249931768,
+      "kernel_time_med": 5.204631040804088,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_157": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.755614499095827,
+      "kernel_time_med": 5.761580166872591,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_158": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.396314499899745,
+      "kernel_time_med": 6.193755957996473,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_159": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.559449415886775,
+      "kernel_time_med": 6.052072082879022,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_160": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.008173374459147,
+      "kernel_time_med": 5.816724667092785,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_161": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.015458749840036,
+      "kernel_time_med": 6.183123625116423,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_162": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.604446664918214,
+      "kernel_time_med": 5.705386250047013,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_163": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.784984583966434,
+      "kernel_time_med": 5.896560583030805,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_164": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.95484033296816,
+      "kernel_time_med": 5.783997749909759,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_165": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.67191445757635,
+      "kernel_time_med": 6.051744374912232,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_166": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.938844458200037,
+      "kernel_time_med": 5.858340624952689,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_167": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.52891258429736,
+      "kernel_time_med": 5.5749030420556664,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_168": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.700411793077365,
+      "kernel_time_med": 5.59846195904538,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_169": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.803660793462768,
+      "kernel_time_med": 6.046074834186584,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_170": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.88793470757082,
+      "kernel_time_med": 6.008456999901682,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_171": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.167215541703627,
+      "kernel_time_med": 5.598274457966909,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_172": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.820067123742774,
+      "kernel_time_med": 5.712337707867846,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_173": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.025583123788238,
+      "kernel_time_med": 6.035949124954641,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_174": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.177588539663702,
+      "kernel_time_med": 6.264588000020012,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_175": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.37075570737943,
+      "kernel_time_med": 5.716448583174497,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_176": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.176823873538524,
+      "kernel_time_med": 5.688835165929049,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_177": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.229386291000992,
+      "kernel_time_med": 5.140098875155672,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_178": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.066948750056326,
+      "kernel_time_med": 5.721957457950339,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_179": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.417641832027584,
+      "kernel_time_med": 5.898686457891017,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_180": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.959761124337092,
+      "kernel_time_med": 6.4892740000505,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_181": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.969728709198534,
+      "kernel_time_med": 5.73235383303836,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_182": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.88235800038092,
+      "kernel_time_med": 5.799430709099397,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_183": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.281233250861987,
+      "kernel_time_med": 5.972597291925922,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_184": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.186133792158216,
+      "kernel_time_med": 5.678802791982889,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_185": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.920740499859676,
+      "kernel_time_med": 5.688040666049346,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_186": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.370459666941315,
+      "kernel_time_med": 5.403420625021681,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_187": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.948638459900394,
+      "kernel_time_med": 5.726222625002265,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_188": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.406280334107578,
+      "kernel_time_med": 5.784445749828592,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_189": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.445949249202386,
+      "kernel_time_med": 5.107829375192523,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_190": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.558591708075255,
+      "kernel_time_med": 6.215350584127009,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_191": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.77182766702026,
+      "kernel_time_med": 5.835111499996856,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_192": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.98683770839125,
+      "kernel_time_med": 5.473496250109747,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_193": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 26.621542250039056,
+      "kernel_time_med": 5.489146375097334,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_194": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 27.10378620796837,
+      "kernel_time_med": 5.474399707978591,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_195": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.680092624854296,
+      "kernel_time_med": 6.120296916924417,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_196": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.229559249943122,
+      "kernel_time_med": 5.826795083004981,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_197": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 28.675527292769402,
+      "kernel_time_med": 5.902182041900232,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_198": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.042772501008585,
+      "kernel_time_med": 5.930045667104423,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_linarith_199": {
+      "pass": true,
+      "winner": "intros; linarith",
+      "t_success": 29.51164666702971,
+      "kernel_time_med": 6.201792916981503,
+      "proof_len_med_tok": 2,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_0": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.770154478494078,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_1": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.33638760400936,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_2": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.0036064790328965,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_3": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.339596646022983,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_4": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.8698135210433975,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_5": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.402422729413956,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_6": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.150840790825896,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_7": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.308726457995363,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_8": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.947950229048729,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_9": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.799025083542801,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_10": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.008277750457637,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_11": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.8174138750182465,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_12": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.778650125022978,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_13": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.0022186874412,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_14": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.3852189999306574,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_15": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.986086625023745,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_16": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.867703625001013,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_17": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.7770284994039685,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_18": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.742502041510306,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_19": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.905198916443624,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_20": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.905346812563948,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_21": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.114427457912825,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_22": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.8865856875199825,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_23": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.7829309166409075,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_24": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.007489457959309,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_25": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.230793896014802,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_26": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.815552479005419,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_27": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.0059014790458605,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_28": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.830785874975845,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_29": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.657846458489075,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_30": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.683157687424682,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_31": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.441486479132436,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_32": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.087700812495314,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_33": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.142978082993068,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_34": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.691657437477261,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_35": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.887942229048349,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_36": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.110295771039091,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_37": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.933726500021294,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_38": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.006033145939,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_39": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.719834833522327,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_40": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.777360895415768,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_41": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.808222188032232,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_42": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.08681439596694,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_43": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.030475541949272,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_44": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.441482104011811,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_45": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.707015624619089,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_46": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.873164146090858,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_47": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.768975874991156,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_48": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.6453667705645785,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_49": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.732286395970732,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_50": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.3795647085644305,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_51": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.810896853916347,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_52": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.058088458026759,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_53": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.58433622890152,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_54": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.30182179203257,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_55": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.238428000011481,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_56": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.907662104465999,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_57": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.1534017289523035,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_58": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.334085499984212,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_59": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.310324999969453,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_60": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.692908666329458,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_61": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.578930833493359,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_62": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.471748979529366,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_63": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.730001187417656,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_64": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.704925687517971,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_65": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.901317208423279,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_66": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.115309833432548,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_67": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.042409520945512,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_68": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.710683083045296,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_69": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.738199042039923,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_70": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.653004062129185,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_71": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.407212583115324,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_72": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.117301728925668,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_73": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.05004189547617,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_74": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.675634916988201,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_75": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.034816937986761,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_76": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.4598333954345435,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_77": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.89719268749468,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_78": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.788098104065284,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_79": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.022706312593073,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_80": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.957568708457984,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_81": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.761558166355826,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_82": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.876519958488643,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_83": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.648843666422181,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_84": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.234463437576778,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_85": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.171742895501666,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_86": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.888685750425793,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_87": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.877196354325861,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_88": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.733747542020865,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_89": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.720365979010239,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_90": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.875139250070788,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_91": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.945401854463853,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_92": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.118037353968248,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_93": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.289314958383329,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_94": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.893953791586682,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_95": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.743763417005539,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_96": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.911276791477576,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_97": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.02484343748074,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_98": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.766790520516224,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_99": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.192734208423644,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_100": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.940918562584557,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_101": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.924257229547948,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_102": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.747111312462948,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_103": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.7924395829904824,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_104": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.9428685834864154,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_105": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.880573729169555,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_106": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.02611027052626,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_107": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.892981312470511,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_108": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.580004604184069,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_109": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.7334044789895415,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_110": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.734013312030584,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_111": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.082752979476936,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_112": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.795412374893203,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_113": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.75356031244155,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_114": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.058926103985868,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_115": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.5088764789979905,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_116": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.810063145938329,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_117": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.819621458067559,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_118": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.025703125400469,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_119": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.674380291486159,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_120": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.575380041496828,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_121": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.435441936948337,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_122": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.844107792014256,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_123": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.685760291409679,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_124": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.055672479677014,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_125": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.692075145896524,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_126": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.747284916462377,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_127": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.972799103939906,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_128": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.279059541528113,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_129": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.61715054186061,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_130": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.100115520996042,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_131": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.795127416960895,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_132": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.7912143329158425,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_133": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.801195250009187,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_134": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.2614089999115095,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_135": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.580372708500363,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_136": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.740358291543089,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_137": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.376240749959834,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_138": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.860674541560002,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_139": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.534726208425127,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_140": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.499866020982154,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_141": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.329325083410367,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_142": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.043146312586032,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_143": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.935082625015639,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_144": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.840433708042838,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_145": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.119258041493595,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_146": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.892973937559873,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_147": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.666384666925296,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_148": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.639022812480107,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_149": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.957475145929493,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_150": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.149040479562245,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_151": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.585129187442362,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_152": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.800182625069283,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_153": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.805714437621646,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_154": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.125288750510663,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_155": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.074373896000907,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_156": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.886049250024371,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_157": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.154355791979469,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_158": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.799663541605696,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_159": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.311238270485774,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_160": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.919602104462683,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_161": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.6838239170610905,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_162": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.8529372500488535,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_163": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.095434082904831,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_164": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.320575291407295,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_165": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.225196270970628,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_166": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.272315229522064,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_167": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.081275520962663,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_168": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.814158229040913,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_169": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.931900583091192,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_170": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.8882052295375615,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_171": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.1017205835087225,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_172": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.751487499452196,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_173": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.4535831664688885,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_174": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.830916667007841,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_175": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.6942481874721125,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_176": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.309420458506793,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_177": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.459010916529223,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_178": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.987114271032624,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_179": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.848754958016798,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_180": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.512066188035533,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_181": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.924012709176168,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_182": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.8191400420619175,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_183": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.700520854094066,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_184": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.937432853970677,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_185": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.537245354498737,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_186": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.529731229413301,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_187": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.605899062938988,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_188": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.008988833986223,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_189": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.720575957908295,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_190": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.937089146114886,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_191": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 6.01591535389889,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_192": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.645588396117091,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_193": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.779775874922052,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_194": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.710266875452362,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_195": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.961486833984964,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_196": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.676141375093721,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_197": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.798008791403845,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_198": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.591998417046852,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    },
+    "hard_nlin_199": {
+      "pass": false,
+      "winner": null,
+      "t_success": null,
+      "kernel_time_med": 5.716457749949768,
+      "proof_len_med_tok": 1.5,
+      "axioms": [],
+      "axiom_penalty": 0.0
+    }
+  },
+  "meta": {
+    "k": 8,
+    "aucT": 90.0,
+    "lambda": {
+      "t": 0.2,
+      "len": 0.1,
+      "ax": 0.15
+    },
+    "constructive": false,
+    "lean_dir": "/Users/hirotaka-m/formal_bench/lean",
+    "tpl": "tools/wrap_by.lean.j2",
+    "ban_strong": true
+  }
+}
