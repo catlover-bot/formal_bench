@@ -1,5 +1,3 @@
----
-
 # formal\_bench: A tactic-ablations benchmark for Lean 4
 
 ## TL;DR
@@ -55,9 +53,6 @@ cp data/hard_mix_v2.jsonl data/bench_v0_4.jsonl
 * **入力**: `data/bench_*.jsonl`（1行1問、`{"id", "lean_prop", ...}`）
 * **予測フォーマット (`preds/*.json`)**:
 
-  ```json
-  { "<id>": ["intros; linarith", "ring_nf", ,  }
-  ```
 
   各要素はテンプレの `by` 直下に**そのまま差し込む**タクティク列（複合OK, 例: `intros; simp [pow_two] at *; ring_nf`）。
 * **実行**:
@@ -254,5 +249,6 @@ python scripts/summarize_results.py  # out/*.json → out/*.csv 図表
 [4]: https://huggingface.co/Goedel-LM/Goedel-Prover-V2-8B?utm_source=chatgpt.com "Goedel-LM/Goedel-Prover-V2-8B"
 [5]: https://github.com/deepseek-ai/DeepSeek-Prover-V1.5?utm_source=chatgpt.com "deepseek-ai/DeepSeek-Prover-V1.5"
 [6]: https://github.com/GasStationManager/SafeVerify?utm_source=chatgpt.com "GasStationManager/SafeVerify: A Lean4 script for robustly ..."
+
 
 
