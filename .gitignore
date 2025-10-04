@@ -1,0 +1,5 @@
+# large or local artifacts
+*.log
+*.log.gz
+*.jsonl.bak
+.DS_Store
