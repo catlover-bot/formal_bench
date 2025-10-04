@@ -1,0 +1,6 @@
+wrote /home/is/hirotaka-m/runs/20251001_192544_v100/ring_stats.csv
+claude_sonnet_gate,600,0,0.0
+gpt4o_mini_gate_stylecanon.json,gpt4o_mini_gate,600,200,0.3333333333333333
+llama31_8b_gate_stylecanon.json,llama31_8b_gate,600,200,0.3333333333333333
+qwen25_3b_gate_stylecanon.json,qwen25_3b_gate,600,0,0.0
+qwen25_7b_gate_stylecanon.json,qwen25_7b_gate,600,200,0.3333333333333333
