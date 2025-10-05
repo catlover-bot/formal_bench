@@ -26,3 +26,11 @@ python scripts/eval_success_lean4_chunked.py \
   --bench benchmarks/bench_v0_4.jsonl \
   --preds /path/to/your_model_gate_stylecanon.json \
   --workdir . --batch 100 --timeout 1200
+```
+
+```bash
+python scripts/eval_success_lean4_chunked.py \
+  --bench benchmarks/bench_v0_4.jsonl \
+  --preds results/20251001_192544_v100/qwen25_7b_gate_stylecanon.json \
+  --workdir lean --batch 100 --timeout 1200
+```
