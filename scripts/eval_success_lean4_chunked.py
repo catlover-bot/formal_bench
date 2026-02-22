@@ -1,21 +1,21 @@
+import argparse
+import json
+import os
 import re
-import argparse, json, os, subprocess, time, re
+import subprocess
+import time
 from pathlib import Path
 
-HEAD_RE = re.compile(r'^(linarith|nlinarith|ring_nf|ring)\b')
+HEAD_RE = re.compile(r"^(linarith|nlinarith|ring_nf|ring)\b", re.I)
 CANON = {
-  "linarith":"linarith","lin":"linarith",
-  "nlinarith":"nlinarith","nlin":"nlinarith",
-  "ring_nf":"ring_nf","ringnf":"ring_nf",
-  "ring":"ring"
+    "linarith": "linarith",
+    "lin": "linarith",
+    "nlinarith": "nlinarith",
+    "nlin": "nlinarith",
+    "ring_nf": "ring_nf",
+    "ringnf": "ring_nf",
+    "ring": "ring",
 }
-
-def _first_word_token(t: str) -> str:
-    # 雑音の除去（ゼロ幅/BOM/ダッシュ類を正規化）
-    t = (t or "").strip().replace("\u200b","").replace("\ufeff","")
-    t = t.replace("–","-").replace("—","-").replace("−","-")
-    m = re.match(r'([A-Za-z_][A-Za-z0-9_]*)', t)
-    return m.group(1) if m else ""
 
 HDR = """\
 import Mathlib
@@ -24,117 +24,137 @@ set_option maxRecDepth 10000
 set_option maxHeartbeats 200000
 """
 
-def sanitize(t: str) -> str:
-    if not t: return ""
-    t = t.strip()
-    if t.endswith("."): t = t[:-1]
-    m = HEAD_RE.match(t)
-    return m.group(1) if m else t
 
-def load_bench(p):
-    xs=[]
-    with open(p,encoding="utf-8") as f:
-        for l in f:
-            j=json.loads(l)
-            xs.append((j.get("id",""),
-                       j.get("lean_prop") or j.get("goal") or j.get("statement") or "",
-                       j.get("style","")))
-    return xs
+def _first_word_token(text: str) -> str:
+    text = (text or "").strip()
+    text = text.replace("\u200b", "").replace("\ufeff", "")
+    text = text.replace("窶・", "-").replace("竏・", "-")
+    m = re.match(r"([A-Za-z_][A-Za-z0-9_]*)", text)
+    return m.group(1).lower() if m else ""
 
-def load_preds(p):
-    obj=json.load(open(p,encoding="utf-8"))
-    return {k:(v[0] if isinstance(v,list) and v else "") for k,v in obj.items()}
 
-def write_chunk(root:Path, chunk_id:int, cases, prelude:str)->Path:
+def sanitize(text: str) -> str:
+    text = (text or "").strip()
+    if not text:
+        return ""
+    if text.endswith("."):
+        text = text[:-1]
+
+    normalized = text.replace("\u200b", "").replace("\ufeff", "")
+    m = HEAD_RE.match(normalized)
+    if m:
+        return m.group(1).lower()
+
+    token = _first_word_token(normalized)
+    return CANON.get(token, token)
+
+
+def load_bench(path):
+    rows = []
+    with open(path, encoding="utf-8") as f:
+        for line in f:
+            item = json.loads(line)
+            goal = item.get("lean_prop") or item.get("goal") or item.get("statement") or ""
+            rows.append((item.get("id", ""), goal, item.get("style", "")))
+    return rows
+
+
+def load_preds(path):
+    with open(path, encoding="utf-8") as f:
+        obj = json.load(f)
+    return {k: (v[0] if isinstance(v, list) and v else "") for k, v in obj.items()}
+
+
+def write_chunk(root: Path, chunk_id: int, cases, prelude: str) -> Path:
     root.mkdir(parents=True, exist_ok=True)
     path = root / f"Batch_{chunk_id:03d}.lean"
-    lines=[HDR, ""]
-    for i,(gid,goal,tac) in enumerate(cases):
-        thm = f"""\
+    lines = [HDR, ""]
+    for i, (gid, goal, tactic) in enumerate(cases):
+        theorem = f"""\
 /-- {gid} -/
 theorem _case_{chunk_id:03d}_{i:03d} : {goal} := by
   {prelude}
-  {tac}
+  {tactic}
 """
-        lines.append(thm)
-    path.write_text("\n".join(lines),encoding="utf-8")
+        lines.append(theorem)
+    path.write_text("\n".join(lines), encoding="utf-8")
     return path
 
-def run_lean(workdir:Path, f:Path, timeout:int):
-    r = subprocess.run(["lake","env","lean",str(f)], cwd=str(workdir),
-                       stdout=subprocess.PIPE, stderr=subprocess.STDOUT, timeout=timeout)
-    return r.returncode==0, r.stdout.decode("utf-8","ignore")
 
-def main(a):
-    bench = load_bench(a.bench)
-    preds = load_preds(a.preds)
-    prelude = os.environ.get("PRELUDE","repeat intro; try simp")
-    work = Path(a.workdir).expanduser()
-    outdir = work / "Batch"
-    timeout = a.timeout
+def run_lean(workdir: Path, lean_file: Path, timeout: int):
+    result = subprocess.run(
+        ["lake", "env", "lean", str(lean_file)],
+        cwd=str(workdir),
+        stdout=subprocess.PIPE,
+        stderr=subprocess.STDOUT,
+        timeout=timeout,
+    )
+    return result.returncode == 0, result.stdout.decode("utf-8", "ignore")
 
-    # 対象ケース
-    items=[]
-    for gid,goal,style in bench:
-        t = sanitize(preds.get(gid,""))
-        if t and goal: items.append((gid,goal,t))
-    tot = len(items)
-    if a.limit>0: items = items[:a.limit]
 
-    # チャンク分割
-    B = max(1, a.batch)
-    chunks=[items[i:i+B] for i in range(0,len(items),B)]
+def main(args):
+    bench = load_bench(args.bench)
+    preds = load_preds(args.preds)
+    prelude = os.environ.get("PRELUDE", "repeat intro; try simp")
+    workdir = Path(args.workdir).expanduser()
+    chunk_dir = workdir / "Batch"
 
-    ok=0; t0=time.perf_counter()
-    for ci,chunk in enumerate(chunks, start=1):
-        f = write_chunk(outdir, ci, chunk, prelude)
-        t1=time.perf_counter()
-        succ, log = run_lean(work, f, timeout=timeout)
-        dt=time.perf_counter()-t1
-        if succ:
+    items = []
+    for gid, goal, _style in bench:
+        tactic = sanitize(preds.get(gid, ""))
+        if tactic and goal:
+            items.append((gid, goal, tactic))
+
+    if args.limit > 0:
+        items = items[: args.limit]
+
+    total = len(items)
+    batch_size = max(1, args.batch)
+    chunks = [items[i : i + batch_size] for i in range(0, total, batch_size)]
+
+    ok = 0
+    started = time.perf_counter()
+
+    for chunk_idx, chunk in enumerate(chunks, start=1):
+        lean_file = write_chunk(chunk_dir, chunk_idx, chunk, prelude)
+        t1 = time.perf_counter()
+        success, log = run_lean(workdir, lean_file, timeout=args.timeout)
+        elapsed = time.perf_counter() - t1
+
+        if success:
             ok += len(chunk)
-            print(f"[chunk {ci}/{len(chunks)}] ok={ok}/{tot}  file={f.name}  time={dt:.1f}s")
-        else:
-            print(f"[chunk {ci}] FAILED: {f.name}\n{os.linesep.join(log.splitlines()[-20:])}")
-            print("Hint: このチャンクだけ個別検査してください：")
-            print(f"      python -u -B ~/eval_success_lean4.py --bench {a.bench} --preds {a.preds} "
-                  f"--workdir {a.workdir} --limit 0 --timeout {timeout}")
-            break
-    print(f"[done] success@1={ok}/{tot}={ok/tot if tot else 0:.3f} in {time.perf_counter()-t0:.1f}s")
+            print(
+                f"[chunk {chunk_idx}/{len(chunks)}] ok={ok}/{total} "
+                f"file={lean_file.name} time={elapsed:.1f}s"
+            )
+            continue
 
-if __name__=="__main__":
-    ap=argparse.ArgumentParser()
-    ap.add_argument("--bench", required=True)
-    ap.add_argument("--preds", required=True)
-    ap.add_argument("--workdir", default=str(Path.home()/ "tactic_eval"))
-    ap.add_argument("--limit", type=int, default=0)
-    ap.add_argument("--timeout", type=int, default=600)
-    ap.add_argument("--batch", type=int, default=100)  # 1ファイルあたりの件数
-    args=ap.parse_args(); main(args)
+        tail = os.linesep.join(log.splitlines()[-20:])
+        print(f"[chunk {chunk_idx}] FAILED: {lean_file.name}\n{tail}")
+        print("Hint: rerun with a smaller --batch (e.g. 1) to isolate the failing case.")
+        print(
+            f"      python scripts/eval_success_lean4_chunked.py --bench {args.bench} "
+            f"--preds {args.preds} --workdir {args.workdir} --batch 1 --timeout {args.timeout}"
+        )
+        break
 
-def sanitize(t: str) -> str:
-    t = (t or '').strip()
-    if t.endswith('.'): t = t[:-1]
-    w = _first_word_token(t)
-    w = CANON.get(w, w)
-    return w
+    total_elapsed = time.perf_counter() - started
+    rate = (ok / total) if total else 0.0
+    print(f"[done] success@1={ok}/{total}={rate:.3f} in {total_elapsed:.1f}s")
 
-def sanitize(t: str) -> str:
-    t = (t or '').strip()
-    if t.endswith('.'): t = t[:-1]
-    # ノイズ除去
-    t = t.replace('\u200b','').replace('\ufeff','').replace('–','-').replace('—','-').replace('−','-')
-    # 先頭を {"linarith","nlinarith","ring_nf","ring"} に強制クリップ
-    m = HEAD_RE.match(t)
-    if m: 
-        return m.group(1)
-    # バックアップ: 英数下線の最初の語を拾い、代表形に写像
-    CANON = {
-        "linarith":"linarith","lin":"linarith",
-        "nlinarith":"nlinarith","nlin":"nlinarith",
-        "ring_nf":"ring_nf","ringnf":"ring_nf",
-        "ring":"ring"
-    }
-    m2 = _re.match(r'([A-Za-z_][A-Za-z0-9_]*)', t)
-    w = (m2.group(1) if m2 else '').lower()
-    return CANON.get(w, w)
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+        description="Evaluate tactic-head predictions with Lean 4 in chunked batches."
+    )
+    parser.add_argument("--bench", required=True, help="Benchmark JSONL file.")
+    parser.add_argument("--preds", required=True, help="Predictions JSON file.")
+    parser.add_argument(
+        "--workdir",
+        default=str(Path.home() / "tactic_eval"),
+        help="Lean/Lake working directory (typically ./lean).",
+    )
+    parser.add_argument("--limit", type=int, default=0, help="Optional item limit (0 = all).")
+    parser.add_argument("--timeout", type=int, default=600, help="Timeout per chunk (seconds).")
+    parser.add_argument("--batch", type=int, default=100, help="Cases per generated Lean file.")
+    main(parser.parse_args())
